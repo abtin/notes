@@ -8,3 +8,24 @@
 
 ##### 	Today I learned:
 
+---
+
+### May 2, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+- I just read an article on [CTV News](https://toronto.ctvnews.ca/we-whipped-up-an-app-in-about-three-hours-engineer-creates-tool-that-finds-nearby-vaccine-clinics-in-ontario-1.5410366) about a service app developed by two engineers that finds nearby vaccine clinics in Ontario. See [Zain Manji Tweet here](https://twitter.com/ZainManji/status/1388507856907821056?s=09). I can see the process as following:
+	- I'm looking for vaccination sites for my postal code here in Ontario.
+	- I'm not the only one who needs this.
+	- What is the most common communication tool that is available to majority of Ontarians? It's SMS.
+	- I can build a site that receives the Postal code, validate it, Look it up in the cache and responds back.
+	- I also need to frequently hydrate the cache with the data that I gather from official websites.
+- Now, the 2-engineer-team who did this has good knowledge and experience with SMS messaging and that was the super-enabler for them to deliver this service in hours.
+
+#####   What I'm doing:
+
+- I'm trying to spin up AWS VMs via vagrant. 
+
+#####   Today I learned:
+
+---
