@@ -29,3 +29,17 @@
 #####   Today I learned:
 
 ---
+
+### May 3, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+
+#####   What I'm doing:
+
+- The example code for Vagrant is done and I've tested it on WIndows, Mac and Linux. It's amazing how un-natural development on Windows machines feels to me.
+- Before trying on AWS and adding more complexity, I need to test vagrant on local machine. 
+
+#####   Today I learned:
+
+---
