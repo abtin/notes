@@ -43,3 +43,15 @@
 #####   Today I learned:
 
 ---
+
+### May 4, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- May the 4th be with you! 
+
+#####   What I'm doing:
+- The vagrant POC is done and can be found [here](https://github.com/abtin/govagrant)
+
+#####   Today I learned:  
+- It is so strange that the Vagrant team resisted adding a '-f' flag to the vagrant command so users could select a Vagrantfile. Instead they insist using environment variable. User experience matters my friends!
+---
