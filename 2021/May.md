@@ -55,3 +55,15 @@
 #####   Today I learned:  
 - It is so strange that the Vagrant team resisted adding a '-f' flag to the vagrant command so users could select a Vagrantfile. Instead they insist using environment variable. User experience matters my friends!
 ---
+
+### May 5, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- I'm wondering how many go routines are the optimum to send pubsub messages to 1000 Cloud Run functions.
+- I may also work on generating random Lat and Long for a selected radius.
+
+#####   What I'm doing:
+- The vagrant POC was delivered successfully. 
+
+#####   Today I learned:  
+---
