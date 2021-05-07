@@ -67,3 +67,13 @@
 
 #####   Today I learned:  
 ---
+
+### May 6, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+- Busy with hammering cloudrun via pubsub
+
+#####   Today I learned:  
+---
