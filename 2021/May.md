@@ -100,3 +100,17 @@
 
 #####   Today I learned:  
 ---
+
+### May 9, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- I used to like python, but it's a seriously limitted language. The pain of productionalization of ML models running on cloud to handle 60 conversation per seconds thought me that no serious work should be done in python. It's a good scripting language, great for quickly hacking some ideas. It's unfortunate that a lot of ML libraries are available in Python. 
+- I would be looking at Rust as I've heard it is used in ML work in conjunctions with python. I wished if Go had all the ML libraries, though. The code would me way more readable.
+- Hybrid-cloud with fast or near real-time performance/through put requirements is a joke. Either do it on-prem or do it on cloud.
+- There is a price to anything. Price of software development for cloud is not cheap and more people would learn this.
+ 
+#####   What I'm doing:
+- I had to re-write my cloud solution in 3 ways and do some fine tuning to get the result I needed. I may liberate some demo code out.
+
+#####   Today I learned:  
+---
