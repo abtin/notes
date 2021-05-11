@@ -108,9 +108,21 @@
 - I would be looking at Rust as I've heard it is used in ML work in conjunctions with python. I wished if Go had all the ML libraries, though. The code would me way more readable.
 - Hybrid-cloud with fast or near real-time performance/through put requirements is a joke. Either do it on-prem or do it on cloud.
 - There is a price to anything. Price of software development for cloud is not cheap and more people would learn this.
- 
+
 #####   What I'm doing:
 - I had to re-write my cloud solution in 3 ways and do some fine tuning to get the result I needed. I may liberate some demo code out.
+
+#####   Today I learned:  
+---
+
+### May 10, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- I got interested to use new problem solving strategies I learned in doing my work.
+- I need to re-think a lot of ideas and my opinions. Same way of thinking will result in same way of doing. And repeating the same thing and expecting a different result is definition of insanity!
+- 
+#####   What I'm doing:
+- some bug fixes due to unexpected behavior of CloudRun.
 
 #####   Today I learned:  
 ---
