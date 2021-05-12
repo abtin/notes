@@ -133,7 +133,17 @@
 - In my experience one of the biggest contributing factors to lower software quality is the rush to get it out.  If programmers have more time to think and review their design and their code, then we'll see higher quality results.
 
 #####   What I'm doing:
-
+- demo rehearsal
 #####   Today I learned:  
 ---
 
+### May 11, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+- Mostly demo rehearsal
+#####   Today I learned:
+- I learned about Eulerian path in Graphs. Perhaps I learned it long ago but I don't remember if I did.
+
+---
