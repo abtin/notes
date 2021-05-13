@@ -147,3 +147,16 @@
 - I learned about Eulerian path in Graphs. Perhaps I learned it long ago but I don't remember if I did.
 
 ---
+
+### May 12, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+
+- slow days. mostly resting
+
+#####   Today I learned:
+
+---
+
