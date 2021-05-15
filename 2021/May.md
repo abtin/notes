@@ -160,3 +160,40 @@
 
 ---
 
+### May 13, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+
+- slow days. mostly resting
+
+#####   Today I learned:
+
+---
+
+### May 14, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+
+- Business meetings
+- Learning about etherium
+
+#####   Today I learned:
+
+---
+
+### May 15, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+
+- Consuming more material from etherium website
+
+#####   Today I learned:
+
+---
+
