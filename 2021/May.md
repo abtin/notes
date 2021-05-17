@@ -197,3 +197,13 @@
 
 ---
 
+### May 16, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- I'd like to play with https://eth.build to solidify my understanding of etherium.
+#####   What I'm doing:
+
+#####   Today I learned:
+
+---
+
