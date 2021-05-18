@@ -207,3 +207,12 @@
 
 ---
 
+### May 17, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- Thinking about how to combine smart contracts with software code.
+#####   What I'm doing:
+- Learned about PySimpleGui and typed in the code for the example image viewer. Pretty simple!
+#####   Today I learned:
+
+---
