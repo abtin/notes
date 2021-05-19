@@ -216,3 +216,15 @@
 #####   Today I learned:
 
 ---
+
+### May 18, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- Fuzz testing is an interesting way of testing some of the potential edge cases.
+
+#####   What I'm doing:
+- Playing with https://eth.build
+- Worked on a SOW for a client
+#####   Today I learned:
+
+---
