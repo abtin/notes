@@ -228,3 +228,14 @@
 #####   Today I learned:
 
 ---
+
+### May 19, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- I want to  try writing my first smart contract soon.
+
+#####   What I'm doing:
+
+- Playing with https://eth.build and watching its tutorials.
+
+#####   Today I learned:
