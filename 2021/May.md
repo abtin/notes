@@ -239,3 +239,14 @@
 - Playing with https://eth.build and watching its tutorials.
 
 #####   Today I learned:
+
+### May 20, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+
+- Playing with https://eth.build and watching its tutorials.
+
+#####   Today I learned:
+- Byzantine General Theorem and how to reach a decision when some actors are not reliable. By the way, Byzantine was  where Istanbul is now. 
