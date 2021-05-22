@@ -250,3 +250,13 @@
 
 #####   Today I learned:
 - Byzantine General Theorem and how to reach a decision when some actors are not reliable. By the way, Byzantine was  where Istanbul is now. 
+
+### May 21, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- What I learned from exercism was how they submitted a problem statement and a test code as the acceptance criteria. I'm going to use this idea somewhere interesting. 
+
+#####   What I'm doing:
+
+#####   Today I learned:
+
