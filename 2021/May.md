@@ -260,3 +260,22 @@
 
 #####   Today I learned:
 
+### May 22, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+- Learning about smart contracts and their applications.  I found this site interesting: https://www.connectbit.com/blockchain-applications/
+
+#####   Today I learned:
+
+### May 23, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+- I'm working on a sample project for Work Order handling via a REST API.
+- Going to use this sample somewhere else, but I need a working copy.
+
+#####   Today I learned:
+
