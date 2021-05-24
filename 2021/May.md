@@ -279,3 +279,12 @@
 
 #####   Today I learned:
 
+### May 24, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- How can I combine dolt and cue in a project?
+
+#####   What I'm doing:
+
+#####   Today I learned:
+- I learned about dolt a git like database https://www.dolthub.com/ 
