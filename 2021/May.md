@@ -288,3 +288,17 @@
 
 #####   Today I learned:
 - I learned about dolt a git like database https://www.dolthub.com/ 
+
+### May 25, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+```solidity
+pragma solidity >0.7.0 <0.9.0;
+
+contract SaaS {
+}
+```
+
+#####   Today I learned:
