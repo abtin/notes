@@ -302,3 +302,15 @@ contract SaaS {
 ```
 
 #####   Today I learned:
+
+
+### May 26, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+
+- still learning solidity. The syntax is easy, but there are some nuances that can become important is real-life. Testing is probably even more important than in traditional computing.
+- more client work.
+
+#####   Today I learned:
