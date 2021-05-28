@@ -314,3 +314,15 @@ contract SaaS {
 - more client work.
 
 #####   Today I learned:
+
+
+
+### May 27, 2021
+
+#####   Thoughts, Ideas, Opinions:
+
+#####   What I'm doing:
+
+- slow progress days
+
+#####   Today I learned:
