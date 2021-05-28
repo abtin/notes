@@ -326,3 +326,15 @@ contract SaaS {
 - slow progress days
 
 #####   Today I learned:
+
+
+### May 28, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- I would play with Azure Quantum at some point!
+
+#####   What I'm doing:
+
+- I'm trying web3 python module with ethereum.
+
+#####   Today I learned:
