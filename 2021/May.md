@@ -338,3 +338,14 @@ contract SaaS {
 - I'm trying web3 python module with ethereum.
 
 #####   Today I learned:
+
+### May 29, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- I need to learn more about ipfs. 
+- solidity is starting to make sense. At least at the language level it's closer to OO languages.
+
+#####   What I'm doing:
+
+#####   Today I learned:
+- I learned about [hypothesis](https://hypothesis.readthedocs.io/en/latest/#) testing framework.
