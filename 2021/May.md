@@ -339,13 +339,25 @@ contract SaaS {
 
 #####   Today I learned:
 
-### May 29, 2021
+### May 30, 2021
 
 #####   Thoughts, Ideas, Opinions:
-- I need to learn more about ipfs. 
-- solidity is starting to make sense. At least at the language level it's closer to OO languages.
 
-#####   What I'm doing:
+#####  What I'm doing:
+- slow day.
+- still playing with web3.py
 
 #####   Today I learned:
-- I learned about [hypothesis](https://hypothesis.readthedocs.io/en/latest/#) testing framework.
+
+
+### May 31, 2021
+
+#####   Thoughts, Ideas, Opinions:
+- I'm wondering if dynamically typed languages like python and js are good choices for interacting with smart contracts. I hate to see programs fail at run time due to syntax errors. Linters may help but I trust compilers better.
+#####   What I'm doing:
+- go-web3 worked with infura.io pretty nice. I just need to dig deeper in the [docs](https://pkg.go.dev/github.com/jaynagpaul/go-web3)
+
+#####   Today I learned:
+- I learned about [go-web3](https://github.com/umbracle/go-web3) 
+
+  
