@@ -7,3 +7,16 @@
 
 ##### 	Today I learned:
 
+### June 2, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- I've been dealing with some complexities in the smart contract I'm developing and realized I'll have to use the old trick to tackle it. Basically break the problem into small pieces and make sense of them separately then combine them in a more complex contract.
+
+##### 	What I'm doing:
+- I've been using brownie and it looks good. 
+
+##### 	Today I learned:
+
+
+
