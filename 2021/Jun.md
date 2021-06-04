@@ -18,5 +18,13 @@
 
 ##### 	Today I learned:
 
+### June 3, 2021
 
+##### 	Thoughts, Ideas, Opinions:
+- Programming smart contracts is a different paradigm. I'm still wrapping my head around the ways to do simplest things like checking if a string is empty!
+
+##### 	What I'm doing:
+- still playing with solidity and brownie but making small progress.
+
+##### 	Today I learned:
 
