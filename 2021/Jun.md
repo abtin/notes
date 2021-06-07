@@ -28,3 +28,29 @@
 
 ##### 	Today I learned:
 
+### June 4, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+- I found some limitations with solidity which forced me to redo the logic in a different way. I feel blockchain is still in early stages and is not ready for mainstream, hence all versions are 0.x.y.
+##### 	What I'm doing:
+- early cut of the contract is ready. but I need to test it.
+
+##### 	Today I learned:
+
+### June 5, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+- writing tests for the solidity contract.
+
+##### 	Today I learned:
+
+### June 6, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+- Enjoyed a walk outside!
+
+##### 	Today I learned:
