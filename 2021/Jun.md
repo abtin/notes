@@ -54,3 +54,13 @@
 - Enjoyed a walk outside!
 
 ##### 	Today I learned:
+
+### June 7, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+- Although solving my smart contract problem has been helping me to learn more about solidity, I'm in a state that I think I need to review the solution before getting deeper and see if there is a simpler way.
+- Also I talked to a friend about Competitive Programming. I see CP as a game, similar to speed chess. I believe that  CP has small value in real life and it actually promote some bad skills. The worse part is that FAANG are the supported of the CP. I personally don't know a single great computer scientist that I follow or had the opportunity to be mentored by that approve CP as a way to build useful skills.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
