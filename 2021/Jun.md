@@ -64,3 +64,12 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### June 8, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+- I heard about the Decentralized Autonomous Organizations, aka DAO. I need to learn more about it.
+##### 	What I'm doing:
+- Mostly meetings and client relationship work.
+
+##### 	Today I learned:
