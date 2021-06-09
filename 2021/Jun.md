@@ -73,3 +73,15 @@
 - Mostly meetings and client relationship work.
 
 ##### 	Today I learned:
+
+### June 9, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+![mountains?](./buildings.jpg)
+
+- If a caveman time travels to today and see the silhouette of the city what would they think of it? Probably, a weird shaped mountains. What would be our reaction if we travel to future far enough that Quantum Computers are abundant and everywhere? What do we see them as? City lights? Decorations? 
+
+##### 	What I'm doing:
+- More meetings and problem solving.
+
+##### 	Today I learned:
