@@ -85,3 +85,13 @@
 - More meetings and problem solving.
 
 ##### 	Today I learned:
+
+### June10, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- learning ipfs.
+
+##### 	Today I learned:
