@@ -95,3 +95,13 @@
 - learning ipfs.
 
 ##### 	Today I learned:
+
+### June11, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- I have some inital grasp of IPFS. I'm going to do some practice and then head over to ethereum integration.
+
+##### 	Today I learned:
