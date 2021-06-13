@@ -96,7 +96,7 @@
 
 ##### 	Today I learned:
 
-### June11, 2021
+### June 11, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
@@ -105,3 +105,14 @@
 - I have some inital grasp of IPFS. I'm going to do some practice and then head over to ethereum integration.
 
 ##### 	Today I learned:
+
+### June 12, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- getting familiarized with Azure stuffs.
+
+##### 	Today I learned:
+- I learned about quantum computers. The 2  Qbits states of UU, DD, SS, and parallel was interesting. Also the QDits!! 
