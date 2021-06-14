@@ -116,3 +116,13 @@
 
 ##### 	Today I learned:
 - I learned about quantum computers. The 2  Qbits states of UU, DD, SS, and parallel was interesting. Also the QDits!! 
+
+### June 13, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+- I liked Azure Durable functions idea. Will try to do a sample, probably in two languages - go and python.
+- I need to get to point to use IPFS with smart contracts.
+
+##### 	What I'm doing:
+- more azure and more IPFS.
+##### 	Today I learned:
