@@ -125,4 +125,17 @@
 
 ##### 	What I'm doing:
 - more azure and more IPFS.
+
+##### 	Today I learned:
+
+
+### June 14, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+- I'm going to play with Azure Event hub.
+
+##### 	What I'm doing:
+
+- Finished the first tutorial on Azure cloud development.
+
 ##### 	Today I learned:
