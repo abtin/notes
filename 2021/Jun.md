@@ -139,3 +139,15 @@
 - Finished the first tutorial on Azure cloud development.
 
 ##### 	Today I learned:
+
+
+
+### June 15, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Working with Azure event hub.
+
+##### 	Today I learned:
