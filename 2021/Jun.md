@@ -160,3 +160,13 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### June 17, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+- Meetings drain the energy from my days.
+
+##### 	What I'm doing:
+- More IPFS stuffs. 
+
+##### 	Today I learned:
