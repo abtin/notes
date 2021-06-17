@@ -141,7 +141,6 @@
 ##### 	Today I learned:
 
 
-
 ### June 15, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
@@ -149,5 +148,15 @@
 ##### 	What I'm doing:
 
 - Working with Azure event hub.
+
+##### 	Today I learned:
+
+
+### June 16, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+- Fast paced life, constant multi-tasking, being connected all the time is against human nature. Time to slow down and say no.
+
+##### 	What I'm doing:
 
 ##### 	Today I learned:
