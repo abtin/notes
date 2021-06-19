@@ -170,3 +170,15 @@
 - More IPFS stuffs. 
 
 ##### 	Today I learned:
+
+
+
+### June 18, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- I'll be working to integrate IPFS into smartcontract.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
