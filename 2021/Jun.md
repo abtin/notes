@@ -182,3 +182,13 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### June 19, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Running my ipfs nodes :)
+
+##### 	Today I learned:
