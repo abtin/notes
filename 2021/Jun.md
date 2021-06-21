@@ -192,3 +192,15 @@
 - Running my ipfs nodes :)
 
 ##### 	Today I learned:
+
+### June 20, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- There is a higher level of creation than our thoughts. No struggles, no worries.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
+
+- I learned about [porter.sh](https://porter.sh/) as a application deployment tool.
