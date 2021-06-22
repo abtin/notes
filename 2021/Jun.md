@@ -204,3 +204,12 @@
 ##### 	Today I learned:
 
 - I learned about [porter.sh](https://porter.sh/) as a application deployment tool.
+
+### June 21, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+- So far it looks like I need some external process to take care of some logic off the smart contract.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
