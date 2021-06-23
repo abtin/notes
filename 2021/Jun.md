@@ -213,3 +213,13 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### June 21, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Trying to build a very simple DApp.
+
+##### 	Today I learned:
