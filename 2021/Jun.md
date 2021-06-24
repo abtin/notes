@@ -214,12 +214,21 @@
 
 ##### 	Today I learned:
 
-### June 21, 2021
+### June 22, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
 ##### 	What I'm doing:
 
 - Trying to build a very simple DApp.
+
+##### 	Today I learned:
+
+### June 23, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+- Ethereum 2.0 is very exciting. A team of smart people are working on it. 
+
+##### 	What I'm doing:
 
 ##### 	Today I learned:
