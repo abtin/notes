@@ -232,3 +232,14 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### June 24, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- what about an app which uses ipfs as the storage? What is the sweet spot for it?
+- higher levels of silence over the low level of noises.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
