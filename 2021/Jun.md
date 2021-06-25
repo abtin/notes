@@ -243,3 +243,12 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### June 25, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+- Ppast few weeks with heavy multi-tasking and multi-subject work proved to be so inefficient and overwhelming that I'm going to use weekly planning with single point of focus.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
