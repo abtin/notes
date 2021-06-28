@@ -247,8 +247,33 @@
 ### June 25, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
-- Ppast few weeks with heavy multi-tasking and multi-subject work proved to be so inefficient and overwhelming that I'm going to use weekly planning with single point of focus.
+- Past few weeks with heavy multi-tasking and multi-subject work proved to be so inefficient and overwhelming that I'm going to use weekly planning with single point of focus.
 
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+
+
+### June 26, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- combining multiple technologies in an application arhitecture
+
+##### 	Today I learned:
+
+
+
+### June 27, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
+
+- I finished a tutorial on Svelte. I have to say after a long while a front end technology finally made sense to me.
+
