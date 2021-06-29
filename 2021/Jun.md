@@ -277,3 +277,15 @@
 
 - I finished a tutorial on Svelte. I have to say after a long while a front end technology finally made sense to me.
 
+### June 28, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Happy Tau day. Apparently Tau is more useful than Pi in engineering.
+
+##### 	What I'm doing:
+
+- This is the svelte week.
+
+##### 	Today I learned:
+
