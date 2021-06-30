@@ -289,3 +289,16 @@
 
 ##### 	Today I learned:
 
+
+
+### June 29, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- I'd like to see how to do multi page apps in svelte. routes?
+
+##### 	What I'm doing:
+
+- More svelte work.
+
+##### 	Today I learned:
