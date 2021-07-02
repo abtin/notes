@@ -302,3 +302,13 @@
 - More svelte work.
 
 ##### 	Today I learned:
+
+### June 29, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- More svelte work.
+
+##### 	Today I learned:
