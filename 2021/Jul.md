@@ -24,3 +24,17 @@
 
 ##### 	Today I learned:
 
+
+
+### July 03, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Haircut day! :)
+
+##### 	What I'm doing:
+
+
+
+##### 	Today I learned:
+
