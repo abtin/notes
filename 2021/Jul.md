@@ -40,7 +40,7 @@
 
 
 
-### July 03, 2021
+### July 04, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
@@ -51,3 +51,16 @@
 ##### 	Today I learned:
 
 - Hiragana is most commonly used, standard form of Japanese writing.
+
+
+
+### July 05, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- derivatives week!
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
+
