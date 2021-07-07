@@ -64,3 +64,16 @@
 
 ##### 	Today I learned:
 
+
+
+### July 06, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Enjoying Futures. 
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
+
+- contango: where the future price is higher than the spot price.
