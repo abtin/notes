@@ -77,3 +77,19 @@
 ##### 	Today I learned:
 
 - contango: where the future price is higher than the spot price.
+
+
+
+
+
+### July 06, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- I'm wondering how to simulate different game theories. Perhaps via discrete event simulation?
+
+##### 	What I'm doing:
+
+- Futures and game theory.
+
+##### 	Today I learned:
