@@ -82,7 +82,7 @@
 
 
 
-### July 06, 2021
+### July 07, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
@@ -93,3 +93,15 @@
 - Futures and game theory.
 
 ##### 	Today I learned:
+
+### July 08, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Futures and game theory.
+
+##### 	Today I learned:
+
+- naked futures!
