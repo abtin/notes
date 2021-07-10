@@ -105,3 +105,23 @@
 ##### 	Today I learned:
 
 - naked futures!
+
+### July 09, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- installing Kafka on AKS
+
+##### 	Today I learned:
+
+### July 10, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Adding minio to kafka aks mix
+
+##### 	Today I learned:
