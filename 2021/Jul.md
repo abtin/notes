@@ -125,3 +125,14 @@
 - Adding minio to kafka aks mix
 
 ##### 	Today I learned:
+
+### July 11, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- my patience and trust is being tested. I feel the pressure.
+- Seems like the docs that I was following to deploy minio on azure was old. I couldn't open port 9000 on azure webapp. going to try nginx or something super simple first.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
