@@ -136,3 +136,13 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### July 11, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Acquired a good foundation about Futures. Next step would be Options.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
