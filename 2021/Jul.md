@@ -137,12 +137,26 @@
 
 ##### 	Today I learned:
 
-### July 11, 2021
+### July 12, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
 - Acquired a good foundation about Futures. Next step would be Options.
 
 ##### 	What I'm doing:
+
+##### 	Today I learned:
+
+
+
+### July 13, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Azure is way slower than gcp in reacting to admin commands.
+
+##### 	What I'm doing:
+
+- integrating Kafka with s3 (minio) to Azure Blob storage.
 
 ##### 	Today I learned:
