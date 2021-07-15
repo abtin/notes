@@ -160,3 +160,17 @@
 - integrating Kafka with s3 (minio) to Azure Blob storage.
 
 ##### 	Today I learned:
+
+
+
+### July 14, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Life lesson: When you go through hell, keep going!
+
+##### 	What I'm doing:
+
+- deep inside kubernetes and kafka. lots of articles that are not up-to-date and docs that are not more than just some reference manuals. 
+
+##### 	Today I learned:
