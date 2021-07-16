@@ -174,3 +174,17 @@
 - deep inside kubernetes and kafka. lots of articles that are not up-to-date and docs that are not more than just some reference manuals. 
 
 ##### 	Today I learned:
+
+
+
+### July 15, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- *You are free, and that is why you are lost.* - Franz Kafka
+
+##### 	What I'm doing:
+
+- kafka week!! 
+
+##### 	Today I learned:
