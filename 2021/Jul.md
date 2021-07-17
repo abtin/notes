@@ -188,3 +188,16 @@
 - kafka week!! 
 
 ##### 	Today I learned:
+
+### July 16, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- By a call or a put and at worst you pay the premium!
+
+##### 	What I'm doing:
+
+- Client work.
+- Options!
+
+##### 	Today I learned:
