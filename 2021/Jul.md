@@ -201,3 +201,17 @@
 - Options!
 
 ##### 	Today I learned:
+
+##### 	
+
+### July 17 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Enjoying The Price of Tomorrow.
+
+##### 	What I'm doing:
+
+- Options! ATM, OTM and ITM
+
+##### 	Today I learned:
