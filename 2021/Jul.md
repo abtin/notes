@@ -215,3 +215,25 @@
 - Options! ATM, OTM and ITM
 
 ##### 	Today I learned:
+
+### July 18 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
+
+- Options! intrinsic and time values
+
+### July 19 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- The joy of teaching what you you know to someone you love.
+
+##### 	What I'm doing:
+
+- Options!
+
+##### 	Today I learned:
