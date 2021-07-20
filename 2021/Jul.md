@@ -237,3 +237,13 @@
 - Options!
 
 ##### 	Today I learned:
+
+### July 20 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- all day client work!
+
+##### 	Today I learned:
