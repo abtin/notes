@@ -247,3 +247,15 @@
 - all day client work!
 
 ##### 	Today I learned:
+
+### July 21 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- option Greeks :)
+
+##### 	What I'm doing:
+
+- options and client work.
+
+##### 	Today I learned:
