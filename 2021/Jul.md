@@ -259,3 +259,15 @@
 - options and client work.
 
 ##### 	Today I learned:
+
+### July 22 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- need to learn more about side-chains.
+
+##### 	What I'm doing:
+
+- client work.
+
+##### 	Today I learned:
