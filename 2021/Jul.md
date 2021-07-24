@@ -271,3 +271,13 @@
 - client work.
 
 ##### 	Today I learned:
+
+### July 22 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- options continued.
+
+##### 	Today I learned:
