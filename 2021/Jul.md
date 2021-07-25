@@ -272,12 +272,22 @@
 
 ##### 	Today I learned:
 
-### July 22 2021
+### July 23 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
 ##### 	What I'm doing:
 
 - options continued.
+
+##### 	Today I learned:
+
+### July 24 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Sometimes the best help one can provide is to just listen.
+
+##### 	What I'm doing:
 
 ##### 	Today I learned:
