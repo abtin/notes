@@ -291,3 +291,15 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+##### 	
+
+### July 24 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- DDD in go lang? It's overkill unless the app is large enough.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
