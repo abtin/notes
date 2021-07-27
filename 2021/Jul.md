@@ -294,11 +294,23 @@
 
 ##### 	
 
-### July 24 2021
+### July 25 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
 - DDD in go lang? It's overkill unless the app is large enough.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
+
+
+
+### July 26 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- how to combine options and futures to lower the cost of hedging?
 
 ##### 	What I'm doing:
 
