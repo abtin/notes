@@ -315,3 +315,13 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### July 27 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- working with kafka and Azure ADLSv2 connector.
+
+##### 	Today I learned:
