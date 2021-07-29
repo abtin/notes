@@ -325,3 +325,16 @@
 - working with kafka and Azure ADLSv2 connector.
 
 ##### 	Today I learned:
+
+##### 	
+
+### July 28 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Kafka schema registry setup.
+- Some little Ethereum.
+
+##### 	Today I learned:
