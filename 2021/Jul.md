@@ -349,3 +349,15 @@
 - Some little Ethereum.
 
 ##### 	Today I learned:
+
+##### 	
+
+### July 30 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- client work!
+
+##### 	Today I learned:
