@@ -361,3 +361,15 @@
 - client work!
 
 ##### 	Today I learned:
+
+##### 
+
+### July 31 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Watched the first episode of The Outer Limits from 1963! Very well made for a show for 58 years ago. 
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
