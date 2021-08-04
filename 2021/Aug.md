@@ -18,3 +18,15 @@
 
 ##### 	Today I learned:
 
+### August 03, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Writing integration test template for testing the smart contract.
+
+##### 	Today I learned:
+
+
+
