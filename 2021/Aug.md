@@ -28,5 +28,13 @@
 
 ##### 	Today I learned:
 
+### August 04, 2021
 
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- trying openapi to generate server code.
+
+##### 	Today I learned:
 
