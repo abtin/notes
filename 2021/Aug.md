@@ -38,3 +38,12 @@
 
 ##### 	Today I learned:
 
+### August 05, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Reviewed one suggestion for doing DDD in go. I feel it makes more sense in Java or other Object Oriented languages. I may revisit it again at some point.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
