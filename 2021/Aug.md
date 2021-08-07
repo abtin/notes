@@ -47,3 +47,13 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### August 06, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Looking for a web3 go library. 
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
