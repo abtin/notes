@@ -57,3 +57,15 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### August 07, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Finally saw some light at the end of go/solidity tunnel. I couldn't get the "go web3" client to work but geth is great.   
+
+##### 	What I'm doing:
+
+- go / solidity.
+
+##### 	Today I learned:
