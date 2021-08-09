@@ -69,3 +69,15 @@
 - go / solidity.
 
 ##### 	Today I learned:
+
+### August 08, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- No more go-web3! geth all the way!
+
+##### 	What I'm doing:
+
+- go / solidity.
+
+##### 	Today I learned:
