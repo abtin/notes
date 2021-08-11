@@ -81,3 +81,29 @@
 - go / solidity.
 
 ##### 	Today I learned:
+
+### August 08, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- geth works great if one knows their way around. 
+
+##### 	What I'm doing:
+
+- Created and made transactions against a contract via geth 
+
+##### 	Today I learned:
+
+- I learned about Tasker as a replacement of Make. So far so good.
+
+### August 10, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Enjoyed a good workout after a long long time.
+
+##### 	What I'm doing:
+
+- Working on the next iteration of the DApp.
+
+##### 	Today I learned:
