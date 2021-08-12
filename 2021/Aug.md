@@ -82,7 +82,7 @@
 
 ##### 	Today I learned:
 
-### August 08, 2021
+### August 09, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
@@ -105,5 +105,15 @@
 ##### 	What I'm doing:
 
 - Working on the next iteration of the DApp.
+
+##### 	Today I learned:
+
+### August 11, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Client work
 
 ##### 	Today I learned:
