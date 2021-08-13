@@ -117,3 +117,15 @@
 - Client work
 
 ##### 	Today I learned:
+
+### August 12, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Heavy processes and document processing has no future. Human economy relies on inefficiency but machine economy is based on efficiency.  Machines will prevail.  
+
+##### 	What I'm doing:
+
+- Client work
+
+##### 	Today I learned:
