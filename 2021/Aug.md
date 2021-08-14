@@ -129,3 +129,13 @@
 - Client work
 
 ##### 	Today I learned:
+
+### August 12, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Finished "The price of Tomorrow". 
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
