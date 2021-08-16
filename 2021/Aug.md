@@ -130,11 +130,31 @@
 
 ##### 	Today I learned:
 
-### August 12, 2021
+### August 13, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
 - Finished "The price of Tomorrow". 
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
+
+### August 14, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- bit of work on the smart contract integration with an oracle. Still too early.
+
+##### 	Today I learned:
+
+### August 15, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- What if a game has discord channel embeded that talks to a smart AI. And what if the game is an actual app? 
 
 ##### 	What I'm doing:
 
