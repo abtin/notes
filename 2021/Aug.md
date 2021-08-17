@@ -159,3 +159,15 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+
+
+### August 16, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- client work
+
+##### 	Today I learned:
