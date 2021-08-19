@@ -197,3 +197,16 @@
 - client works.
 
 ##### 	Today I learned:
+
+
+
+### August 18, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- more option greeks. 
+- client work.
+
+##### 	Today I learned:
