@@ -185,3 +185,15 @@
 ##### 	Today I learned:
 
 - Option greeks can be useful to have a more educated guess about the direction of the option premiums.
+
+
+
+### August 18, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- client works.
+
+##### 	Today I learned:
