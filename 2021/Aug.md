@@ -200,7 +200,7 @@
 
 
 
-### August 18, 2021
+### August 19, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
@@ -208,5 +208,18 @@
 
 - more option greeks. 
 - client work.
+
+##### 	Today I learned:
+
+
+
+### August 20, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- client work.
+- back to go.
 
 ##### 	Today I learned:
