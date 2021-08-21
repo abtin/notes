@@ -223,3 +223,15 @@
 - back to go.
 
 ##### 	Today I learned:
+
+
+
+### August 21, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Go go go!
+
+##### 	Today I learned:
