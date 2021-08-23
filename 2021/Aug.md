@@ -235,3 +235,15 @@
 - Go go go!
 
 ##### 	Today I learned:
+
+### August 22, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- I like discord as a chat platform.
+
+##### 	What I'm doing:
+
+- Go more!
+
+##### 	Today I learned:
