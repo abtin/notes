@@ -247,3 +247,15 @@
 - Go more!
 
 ##### 	Today I learned:
+
+
+
+### August 23, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Go further!
+
+##### 	Today I learned:
