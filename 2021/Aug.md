@@ -281,3 +281,15 @@
 - GOne half way!
 
 ##### 	Today I learned:
+
+### August 26, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Mandatory trainings are soul and mind torture! :-( 
+
+##### 	What I'm doing:
+
+- Keep GOing!
+
+##### 	Today I learned:
