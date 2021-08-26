@@ -271,3 +271,13 @@
 - Go deeper!
 
 ##### 	Today I learned:
+
+### August 25, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- GOne half way!
+
+##### 	Today I learned:
