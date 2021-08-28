@@ -293,3 +293,27 @@
 - Keep GOing!
 
 ##### 	Today I learned:
+
+### August 27, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Little go!
+- Client work.
+
+##### 	Today I learned:
+
+### August 28, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Love GoBot!
+
+##### 	What I'm doing:
+
+- Still GOing!
+
+##### 	Today I learned:
+
