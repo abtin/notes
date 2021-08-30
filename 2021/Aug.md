@@ -317,3 +317,15 @@
 
 ##### 	Today I learned:
 
+### August 29, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- some ML is coming.
+
+##### 	What I'm doing:
+
+- Go concurrently!
+
+##### 	Today I learned:
+
