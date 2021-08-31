@@ -329,3 +329,15 @@
 
 ##### 	Today I learned:
 
+### August 30, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- I'm getting bored! It's a good thing.
+
+##### 	What I'm doing:
+
+- didn't Go much!
+
+##### 	Today I learned:
+
