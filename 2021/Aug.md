@@ -341,3 +341,14 @@
 
 ##### 	Today I learned:
 
+### August 31, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- Last day of August! Enjoying the sound of birds. Fall is near. Growth is desired.
+
+##### 	What I'm doing:
+
+- Go is fun!
+
+##### 	Today I learned:
