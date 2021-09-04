@@ -21,3 +21,15 @@
 - GOne through the first iteration. 
 
 ##### 	Today I learned:
+
+### September 03, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- I have a lot of love and respect for my immune system. 
+
+##### 	What I'm doing:
+
+- Looking for ideas.
+
+##### 	Today I learned:
