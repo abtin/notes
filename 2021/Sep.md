@@ -33,3 +33,24 @@
 - Looking for ideas.
 
 ##### 	Today I learned:
+
+### September 05, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+##### 	What I'm doing:
+
+- Taking it easy. No work. Just reflection.
+
+##### 	Today I learned:
+
+### September 04, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- I'm happy that I figured I don't want something that I always assumed I would want.
+- My subconscious prevented me from getting some outcomes since I really wouldn't desire them had I achieved them!   
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
