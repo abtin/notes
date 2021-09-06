@@ -34,7 +34,7 @@
 
 ##### 	Today I learned:
 
-### September 05, 2021
+### September 04, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
@@ -44,7 +44,7 @@
 
 ##### 	Today I learned:
 
-### September 04, 2021
+### September 05, 2021
 
 ##### 	Thoughts, Ideas, Opinions:
 
@@ -54,3 +54,14 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### September 06, 2021
+
+##### 	Thoughts, Ideas, Opinions:
+
+- I'm having a good staycation. Shredding old docs that been there for a long time. Cleaning the clutter, cleans the mind. 
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
+
