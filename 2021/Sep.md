@@ -65,3 +65,13 @@
 
 ##### 	Today I learned:
 
+### September 07, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- building a foundation server based on hexagonal architecture.
+
+##### 	Today I learned:
+
