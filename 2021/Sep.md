@@ -75,3 +75,15 @@
 
 ##### 	Today I learned:
 
+### September 07, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- Switched to yaml file instead of toml to have root level attributes that can be overridden via env vards.
+
+##### 	Today I learned:
+
+
+
