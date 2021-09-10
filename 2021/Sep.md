@@ -75,7 +75,7 @@
 
 ##### 	Today I learned:
 
-### September 07, 2021
+### September 08, 2021
 
 ##### 	Thoughts, Ideas, Opinions: 
 
@@ -84,6 +84,28 @@
 - Switched to yaml file instead of toml to have root level attributes that can be overridden via env vards.
 
 ##### 	Today I learned:
+
+### September 09, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- authenticating via github
+
+##### 	Today I learned:
+
+### September 10, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
+
+- I was getting `oauth2: server response missing access_token`error and finally found out there was some issues with my cient-secret. I generated and use a new one and the problem was solved!! 
+
+
 
 
 
