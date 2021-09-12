@@ -105,7 +105,22 @@
 
 - I was getting `oauth2: server response missing access_token`error and finally found out there was some issues with my cient-secret. I generated and use a new one and the problem was solved!! 
 
+### September 11, 2021
 
+##### 	Thoughts, Ideas, Opinions: 
 
+##### 	What I'm doing:
 
+- Took the day off :)
 
+##### 	Today I learned:
+
+### September 12, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+- Let the silence make the music heard. Let the darkness make the scene seen. Let the void create things.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
