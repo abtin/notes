@@ -124,3 +124,13 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### September 13, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+- The feeling of freedom.
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
