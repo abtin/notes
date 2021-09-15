@@ -134,3 +134,14 @@
 ##### 	What I'm doing:
 
 ##### 	Today I learned:
+
+### September 14, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- keep switching between whiteboard and keyboard!
+
+##### 	Today I learned:
+
