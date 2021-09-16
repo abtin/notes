@@ -155,3 +155,16 @@
 
 ##### 	Today I learned:
 
+### September 16, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+- Core support! Everyone needs to have a core support. A group of one or more people that believe in them and support them emotionally and intellectually in their lives. 
+- Can we say without a genuine core support, you would feel lost at times?
+
+##### 	What I'm doing:
+
+- I like to find someone who has done anything non trivial with pyspark (databricks on azure).
+
+##### 	Today I learned:
+
