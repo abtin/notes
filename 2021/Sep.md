@@ -145,3 +145,13 @@
 
 ##### 	Today I learned:
 
+### September 15, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- Spending time on pyspark and it's dark magic! 
+
+##### 	Today I learned:
+
