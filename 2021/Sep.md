@@ -168,3 +168,4 @@
 
 ##### 	Today I learned:
 
+- today I learned again(?!) that when pushing to solve a problem and the solution sounds right but it doesn't work I have to literally look outside the box, let's say go a layer higher and try understanding the problem and solving it from that level. That's one definition of the box. Or if there is no outer layer left, then it's literally out side the box. just a new world with endless possibilities.
