@@ -169,3 +169,44 @@
 ##### 	Today I learned:
 
 - today I learned again(?!) that when pushing to solve a problem and the solution sounds right but it doesn't work I have to literally look outside the box, let's say go a layer higher and try understanding the problem and solving it from that level. That's one definition of the box. Or if there is no outer layer left, then it's literally out side the box. just a new world with endless possibilities.
+
+### September 17, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- Client work
+
+##### 	Today I learned:
+
+### September 18, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- Off
+
+##### 	Today I learned:
+
+### September 19, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- Some Svelte work. 
+
+##### 	Today I learned:
+
+### September 20, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- Lots of client work 
+
+##### 	Today I learned:
+
