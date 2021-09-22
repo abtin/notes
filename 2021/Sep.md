@@ -210,3 +210,15 @@
 
 ##### 	Today I learned:
 
+### September 21, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+- I wonder how the selling of an NFT with fractional owners work?!
+
+##### 	What I'm doing:
+
+- More client work 
+
+##### 	Today I learned:
+
