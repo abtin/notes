@@ -222,3 +222,15 @@
 
 ##### 	Today I learned:
 
+### September 22, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+- Things have been on pause, like an insect who's been motionless for long time and then one day, maybe, he flies away.
+
+##### 	What I'm doing:
+
+- More client work 
+
+##### 	Today I learned:
+
