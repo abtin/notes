@@ -234,3 +234,14 @@
 
 ##### 	Today I learned:
 
+### September 23, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+- Had an interesting conversation with a friend about universal income. She pointed out the situation in Vancouver BC where housing and income are provided but a lot of people are drug addicts and don't work out of laziness. In future when AI takes away jobs, we need some sort of base income which is tied to training and finding jobs.
+
+##### 	What I'm doing:
+
+- just client work!
+
+##### 	Today I learned:
