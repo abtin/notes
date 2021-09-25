@@ -245,3 +245,18 @@
 - just client work!
 
 ##### 	Today I learned:
+
+##### 	
+
+### September 24, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+- Back to the basics. A quick and simple look is better than never completed great look. 
+- Market is getting to Y2K hot!
+
+##### 	What I'm doing:
+
+- just client work!
+
+##### 	Today I learned:
