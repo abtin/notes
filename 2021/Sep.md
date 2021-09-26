@@ -260,3 +260,15 @@
 - just client work!
 
 ##### 	Today I learned:
+
+### September 25, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- Workout.
+- a light reading.
+
+##### 	Today I learned:
+
