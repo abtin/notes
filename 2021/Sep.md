@@ -272,3 +272,15 @@
 
 ##### 	Today I learned:
 
+### September 26, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+- Remote working is not good for the team building. New members start to feel they are part of the team when they join the social activities like picnics and games.
+
+##### 	What I'm doing:
+
+- I let my friends to fly my drone! I'd say it's easier for gamers to learn how to fly it as long as they look at the screen instead of the drone itself.
+
+##### 	Today I learned:
+
