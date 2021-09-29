@@ -284,3 +284,29 @@
 
 ##### 	Today I learned:
 
+### September 27, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- Client work.
+
+##### 	Today I learned:
+
+
+
+### September 28, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+- installing letsencrypt for azure App Gateway took some time and due to multiple attempts, I got locked out from LE by their rate limitter. Strange enough, today I was looking at different algorithms for the rate limitter and I think letsencrypt has some sort of contextual rate limitting. 
+
+##### 	What I'm doing:
+
+- Client work.
+
+##### 	Today I learned:
+
+
+
