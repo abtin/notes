@@ -308,5 +308,22 @@
 
 ##### 	Today I learned:
 
+### September 29, 2021
+
+##### 	Thoughts, Ideas, Opinions: 
+
+##### 	What I'm doing:
+
+- Client work.
+- Playing with gcp load balancer and using it for ssl termination.
+
+##### 	Today I learned:
+
+
+
+
+
+
+
 
 
