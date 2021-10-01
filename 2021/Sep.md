@@ -321,7 +321,15 @@
 
 
 
+### September 30, 2021
 
+##### 	Thoughts, Ideas, Opinions: 
+
+- last day of the September! I'm glad tomorrow's Friday!
+
+##### 	What I'm doing:
+
+##### 	Today I learned:
 
 
 
