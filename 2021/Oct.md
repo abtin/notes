@@ -12,3 +12,11 @@
 
 - GoTiny and WASM are two areas of interest, especially if I get into IOT.
 
+
+
+### Oct 02, 2021
+
+#### Thoughts
+
+- Thinking of doing some TikTok for myself.
+
