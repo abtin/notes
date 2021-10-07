@@ -32,3 +32,12 @@
 
   > "Science is far from a perfect instrument of knowledge. It's just the best we have. In this respect, as in many others, it's like democracy." - Carl Sagan
 
+
+
+### Oct 07, 2021
+
+#### Thoughts
+
+- Sometimes I wish I could wake up from this nightmare.
+
+  
