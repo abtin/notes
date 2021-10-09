@@ -40,4 +40,14 @@
 
 - Sometimes I wish I could wake up from this nightmare.
 
+
+
+### Oct 09, 2021
+
+#### Thoughts
+
+- How do you start thinking about a new software you're going to build. Start with the data? Like OO and DDD? Are they still relevant?
+
+- I'm thinking of publishing unpopular opinions!
+
   
