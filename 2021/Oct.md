@@ -47,7 +47,16 @@
 #### Thoughts
 
 - How do you start thinking about a new software you're going to build. Start with the data? Like OO and DDD? Are they still relevant?
-
 - I'm thinking of publishing unpopular opinions!
 
-  
+
+
+### Oct 10, 2021
+
+#### Thoughts
+
+- Technical debt is a very contextual subject. 
+  - If you're a startup using a new technology, you may accrue technical debt which requires refactoring on a later stage of your company, or never if the projects goes belly up.
+  - If you're a startup using a know technology to your team, you may accrue technical debt of repeating the known patterns but missing the opportunities of using something new. You may have a chance to refactor later, or basically building a legacy system right off the bat. 
+  - If you are a ...
+- There are so many possibilities. Someone said, technical debt is good, it shows you delivered something, or did something pragmatic. It's like borrowing money to start a business.
