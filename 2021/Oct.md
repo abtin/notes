@@ -60,3 +60,10 @@
   - If you're a startup using a know technology to your team, you may accrue technical debt of repeating the known patterns but missing the opportunities of using something new. You may have a chance to refactor later, or basically building a legacy system right off the bat. 
   - If you are a ...
 - There are so many possibilities. Someone said, technical debt is good, it shows you delivered something, or did something pragmatic. It's like borrowing money to start a business.
+
+### Oct 11, 2021
+
+#### Thoughts
+
+- The only path of learning that seems to still be open to me is learning by doing! And perhaps blog or tiktok about it, as a reminder to my future self.
+- It's amazing what a huge gap there is in my mind between what I call Senior Software Engineer and many people on social media who carry the title.
