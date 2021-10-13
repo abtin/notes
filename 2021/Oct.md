@@ -67,3 +67,10 @@
 
 - The only path of learning that seems to still be open to me is learning by doing! And perhaps blog or tiktok about it, as a reminder to my future self.
 - It's amazing what a huge gap there is in my mind between what I call Senior Software Engineer and many people on social media who carry the title.
+
+### Oct 12, 2021
+
+#### Thoughts
+
+- Today I heard an interesting "fact" that as humans we live for around 4000 weeks. This is not too long. Why work should take most of our lives? 
+
