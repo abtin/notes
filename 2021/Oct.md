@@ -74,3 +74,8 @@
 
 - Today I heard an interesting "fact" that as humans we live for around 4000 weeks. This is not too long. Why work should take most of our lives? 
 
+### Oct 13, 2021
+
+#### Thoughts
+
+- Seems like a lot of time struggles are unnecessary. it's about finding a  way the awareness to stop it.
