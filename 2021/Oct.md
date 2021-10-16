@@ -79,3 +79,11 @@
 #### Thoughts
 
 - Seems like a lot of time struggles are unnecessary. it's about finding a  way the awareness to stop it.
+
+
+
+### Oct 15, 2021
+
+#### Thoughts
+
+- It's amazing that when I talk to some smart people in large organizations who want to do a lot of good and right things but they don't seems to understand that their current state is a reflection of their organization. People, Processes, Culture, Reporting structure, Career path and a lot of other non technical aspects are usually the culprit than a big corp cannot become as nimble and innovative as some smaller, yet right size, firms. To solve your problem don't look outside, look inside!
