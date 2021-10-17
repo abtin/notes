@@ -87,3 +87,9 @@
 #### Thoughts
 
 - It's amazing that when I talk to some smart people in large organizations who want to do a lot of good and right things but they don't seems to understand that their current state is a reflection of their organization. People, Processes, Culture, Reporting structure, Career path and a lot of other non technical aspects are usually the culprit than a big corp cannot become as nimble and innovative as some smaller, yet right size, firms. To solve your problem don't look outside, look inside!
+
+### Oct 16, 2021
+
+#### Thoughts
+
+- I had a horrible experience with Azure DevOps. In 2021, the quality of this service should have been considered as a joke! Seems like story is repeating itself again. 30 years ago IBM was so comfortable with all their clients. Microsoft was so small, but they grew and stole the enterprise from IBM. I'm wondering who is going to steal enterprises from Microsoft. A new generation of technology can be the catalyst. 
