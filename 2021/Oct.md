@@ -93,3 +93,9 @@
 #### Thoughts
 
 - I had a horrible experience with Azure DevOps. In 2021, the quality of this service should have been considered as a joke! Seems like story is repeating itself again. 30 years ago IBM was so comfortable with all their clients. Microsoft was so small, but they grew and stole the enterprise from IBM. I'm wondering who is going to steal enterprises from Microsoft. A new generation of technology can be the catalyst. 
+
+### Oct 17, 2021
+
+#### Thoughts
+
+- I'm enjoying Cloud Native Go book. 
