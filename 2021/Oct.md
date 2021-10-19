@@ -99,3 +99,11 @@
 #### Thoughts
 
 - I'm enjoying Cloud Native Go book. 
+
+### Oct 18, 2021
+
+#### Thoughts
+
+- As Warren Buffet pointed out, it's important that we surround ourselves with People who are positive and bring out the best in each other.
+
+  
