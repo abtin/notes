@@ -106,4 +106,8 @@
 
 - As Warren Buffet pointed out, it's important that we surround ourselves with People who are positive and bring out the best in each other.
 
-  
+### Oct 20, 2021
+
+#### Thoughts
+
+- I want to implement a few algorithms including a circuit breaker.
