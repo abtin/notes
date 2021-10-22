@@ -111,3 +111,9 @@
 #### Thoughts
 
 - I want to implement a few algorithms including a circuit breaker.
+
+### Oct 21, 2021
+
+#### Thoughts
+
+- A while ago i was thinking about the paper I read back in university about Discrete Event Simulation and I googled it up. I ended up with a link to SimPy. Today I had a conversation about some problem that was attempted to be solved using SimPy. The estimation was 31,000 years to solve the full model. It needs some investigations.
