@@ -123,3 +123,11 @@
 #### Thoughts
 
 - Got access to copilot. Gonna see if it works in GoLand :)
+
+
+
+### Oct 26, 2021
+
+#### Thoughts
+
+- Past few days has been very busy but I got a chance to play with github copilot. Although I like the name very much, it's more of a trainee pilot than a copilot. I appreciate the work though. It was even helping me in writing the readme file, which impressed me a lot more than what they did for the coding part! Seems like finally AI is coming to rescue programmers from writing the readme files. 
