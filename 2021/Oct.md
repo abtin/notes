@@ -131,3 +131,11 @@
 #### Thoughts
 
 - Past few days has been very busy but I got a chance to play with github copilot. Although I like the name very much, it's more of a trainee pilot than a copilot. I appreciate the work though. It was even helping me in writing the readme file, which impressed me a lot more than what they did for the coding part! Seems like finally AI is coming to rescue programmers from writing the readme files. 
+
+
+
+### Oct 27, 2021
+
+#### Thoughts
+
+- I think this new trend of low-code and no-code will create a big opportunity in a few years  for real software engineers to throw away the hello-world level apps that are built using them and develop and deliver industrial strength version of them that are scalable, expendable and maintainable.  
