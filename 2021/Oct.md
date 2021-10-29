@@ -139,3 +139,9 @@
 #### Thoughts
 
 - I think this new trend of low-code and no-code will create a big opportunity in a few years  for real software engineers to throw away the hello-world level apps that are built using them and develop and deliver industrial strength version of them that are scalable, expendable and maintainable.  
+
+### Oct 28, 2021
+
+#### Thoughts
+
+- Ontology is an interesting subject in NLP. Love to learn more.
