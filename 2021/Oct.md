@@ -145,3 +145,11 @@
 #### Thoughts
 
 - Ontology is an interesting subject in NLP. Love to learn more.
+
+
+
+### Oct 29, 2021
+
+#### Thoughts
+
+- OWL? can it be used to drive a UI to move between pages?
