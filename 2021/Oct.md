@@ -153,3 +153,13 @@
 #### Thoughts
 
 - OWL? can it be used to drive a UI to move between pages?
+
+
+
+### Oct 31, 2021
+
+#### Thoughts
+
+- Happy Halloween!
+- eBPF to Linux kernel is like JavaScript to HTML!
+- What is the hello world of eBPF?
