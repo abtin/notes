@@ -17,3 +17,9 @@
 #### Thoughts
 
 - The environment that we spend our time in would affect what we do there. Look around and see what type of activity the environment you live / work at is most suitable for?
+
+### Nov 05, 2021
+
+#### Thoughts
+
+- A game to simulate the tokenomy. This is so fun to think about.
