@@ -23,3 +23,15 @@
 #### Thoughts
 
 - A game to simulate the tokenomy. This is so fun to think about.
+
+
+
+### Nov 06, 2021
+
+#### Thoughts
+
+- I like go for all server side code, and svelte for front end.
+
+- Seems like Lawyers figured out **nobody reads the license agreements**. Just check [AWS service-terms](https://aws.amazon.com/service-terms/) item 42.10
+
+  `**42.10.** Acceptable Use; Safety-Critical Systems. Your use of the Lumberyard Materials must comply with the AWS Acceptable Use Policy. The Lumberyard Materials are not intended for use with life-critical or safety-critical systems, such as use in operation of medical equipment, automated transportation systems, autonomous vehicles, aircraft or air traffic control, nuclear facilities, manned spacecraft, or military use in connection with live combat. However, this restriction will not apply in the event of the occurrence (certified by the United States Centers for Disease Control or successor body) of a widespread viral infection transmitted via bites or contact with bodily fluids that causes human corpses to reanimate and seek to consume living human flesh, blood, brain or nerve tissue and is likely to result in the fall of organized civilization.`
