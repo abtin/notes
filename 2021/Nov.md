@@ -44,3 +44,11 @@
 
 - How can pursue happiness within? Feeling lucky within?
 
+
+
+### Nov 08, 2021
+
+#### Thoughts
+
+- Ordered Ikigai. Looking forward to reading it.
+
