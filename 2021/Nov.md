@@ -52,3 +52,13 @@
 
 - Ordered Ikigai. Looking forward to reading it.
 
+
+
+### Nov 09, 2021
+
+#### Thoughts
+
+- Health is the most important and most take it for granted thing in our lives.
+
+  
+
