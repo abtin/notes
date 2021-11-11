@@ -62,3 +62,11 @@
 
   
 
+### Nov 10, 2021
+
+#### Thoughts
+
+- What is the reason for which you wake up in the morning?
+
+  
+
