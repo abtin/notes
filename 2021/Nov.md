@@ -70,3 +70,10 @@
 
   
 
+### Nov 11, 2021
+
+#### Thoughts
+
+- What is a minimum yet meaningful project to use graphql in? 
+
+  
