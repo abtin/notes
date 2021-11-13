@@ -53,13 +53,11 @@
 - Ordered Ikigai. Looking forward to reading it.
 
 
-
 ### Nov 09, 2021
 
 #### Thoughts
 
 - Health is the most important and most take it for granted thing in our lives.
-
   
 
 ### Nov 10, 2021
@@ -69,11 +67,17 @@
 - What is the reason for which you wake up in the morning?
 
   
-
 ### Nov 11, 2021
 
 #### Thoughts
 
 - What is a minimum yet meaningful project to use graphql in? 
 
+### Nov 12, 2021
+
+#### Thoughts
+
+- I had one quick pass on graphql, it's an interesting technology. Perhaps a bit simpler than protobuf or similar techs. 
+- I also learned about the life of K.H. and how his humble start and his thirst for progress combined with working hard made him so much successful. That was really educational.
+  
   
