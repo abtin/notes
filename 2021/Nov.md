@@ -79,5 +79,12 @@
 
 - I had one quick pass on graphql, it's an interesting technology. Perhaps a bit simpler than protobuf or similar techs. 
 - I also learned about the life of K.H. and how his humble start and his thirst for progress combined with working hard made him so much successful. That was really educational.
-  
-  
+
+
+
+### Nov 13, 2021
+
+#### Thoughts
+
+- It's an art to make dry subjects into interesting tutorials. Best example could be cryptozombies. 
+
