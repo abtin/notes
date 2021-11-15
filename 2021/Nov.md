@@ -88,3 +88,13 @@
 
 - It's an art to make dry subjects into interesting tutorials. Best example could be cryptozombies. 
 
+
+
+### Nov 14, 2021
+
+#### Thoughts
+
+- Is smart contracts good as a data store + payment service? Anything else seems to be too expensive to be done on block chains.
+
+
+
