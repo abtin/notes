@@ -98,3 +98,13 @@
 
 
 
+### Nov 15, 2021
+
+#### Thoughts
+
+- Testing smart contracts are very critical. If a contract has a bug / security flaw, the code will stay on the blockchain "forever".
+
+  
+
+
+
