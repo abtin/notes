@@ -106,5 +106,13 @@
 
   
 
+### Nov 16, 2021
 
+#### Thoughts
+
+- The need to reach the perfection quickly betrays the outcome. Perfection, as seen by others, is nothing but a snapshot from a never ending improvement process taken at a later stage. 
+
+- Failures are honest feedbacks, if they are acted upon in the process.
+
+  
 
