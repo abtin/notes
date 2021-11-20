@@ -122,4 +122,11 @@
 
 - When issues keep happening and organizations don't learn the lesson, people do! That's why you see people in some organizations that don't care about anything but their pay check. Not that they were like this from the beginning. But they *learned* their lesson when tried to be proactive, warn others, and point to the issues and got the opposite result. 
 
-  
+
+
+### Nov 18, 2021
+
+#### Thoughts
+
+- Staying the course and getting to the finish line. 
+- smart contracts will  enhance in the digital world.
