@@ -130,3 +130,11 @@
 
 - Staying the course and getting to the finish line. 
 - smart contracts will  enhance in the digital world.
+
+
+
+### Nov 19, 2021
+
+#### Thoughts
+
+- There are beliefs that prevent us from seeing the truths. The first step to freedom is to become aware of them.
