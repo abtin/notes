@@ -138,3 +138,27 @@
 #### Thoughts
 
 - There are beliefs that prevent us from seeing the truths. The first step to freedom is to become aware of them.
+
+
+
+
+
+### Nov 22, 2021
+
+#### Thoughts
+
+- I watched a very interesting youtube video that made my day.  Simulate evolution.
+
+  https://www.youtube.com/watch?v=N3tRFayqVtk
+
+  1- Self replication
+
+  2- Blueprint
+
+  3- Inherit blueprint
+
+  4- Mutation
+
+  5- Selection
+
+  
