@@ -161,4 +161,11 @@
 
   5- Selection
 
-  
+
+
+
+### Nov 23, 2021
+
+#### Thoughts
+
+- Ebiten looks like  a nice 2D game engine. I'm trying to see how I can run a basic world that is larger than the screen size.
