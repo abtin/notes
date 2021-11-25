@@ -169,3 +169,12 @@
 #### Thoughts
 
 - Ebiten looks like  a nice 2D game engine. I'm trying to see how I can run a basic world that is larger than the screen size.
+
+
+
+### Nov 24, 2021
+
+#### Thoughts
+
+- I found simulation very fascinating. 
+
