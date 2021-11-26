@@ -178,3 +178,19 @@
 
 - I found simulation very fascinating. 
 
+
+
+### Nov 25, 2021
+
+#### Thoughts
+
+- Building simulations is a category of apps on itself. With all the design considerations.
+
+
+
+### Nov 26, 2021
+
+#### Thoughts
+
+- I rather have an AI to be my family doctor.
+
