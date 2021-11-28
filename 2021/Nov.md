@@ -194,3 +194,12 @@
 
 - I rather have an AI to be my family doctor.
 
+
+
+### Nov 27, 2021
+
+#### Thoughts
+
+- It's so amazing, fresh and eye opening that a young and pure mind has way higher integrity and value over someone who does thing just for a reward.
+- I don't think people who are not passionate about something should be involved in decision making about it.
+
