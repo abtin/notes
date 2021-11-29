@@ -203,3 +203,8 @@
 - It's so amazing, fresh and eye opening that a young and pure mind has way higher integrity and value over someone who does thing just for a reward.
 - I don't think people who are not passionate about something should be involved in decision making about it.
 
+### Nov 28, 2021
+
+#### Thoughts
+
+- I learned that google map is based on Mercator Projection which has its own flaws. As a side effect, the Mercator projection inflates the size of objects away from the equator. Mercator projection was first done back in 16th century to help ships navigating the seas. 
