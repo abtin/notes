@@ -208,3 +208,10 @@
 #### Thoughts
 
 - I learned that google map is based on Mercator Projection which has its own flaws. As a side effect, the Mercator projection inflates the size of objects away from the equator. Mercator projection was first done back in 16th century to help ships navigating the seas. 
+
+### Nov 29, 2021
+
+#### Thoughts
+
+-  Hofstader’s law: Things take longer than you expect, even after accounting for Hofstader’s law.
+- reading about Agent Based Modeling 
