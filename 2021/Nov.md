@@ -215,3 +215,11 @@
 
 -  Hofstader’s law: Things take longer than you expect, even after accounting for Hofstader’s law.
 - reading about Agent Based Modeling 
+
+
+
+### Nov 30, 2021
+
+#### Thoughts
+
+-  Got two audio books. The Design of everyday things (new version) and Evolve your brain. Let's hear what they have to say! 
