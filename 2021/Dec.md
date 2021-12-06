@@ -24,3 +24,10 @@
 
 - Vision of a happy place, where things are progressing at a right pace under full control with less effort.
 - Breath in, breath out. A harmony of life.
+
+### Dec 05, 2021
+
+#### Thoughts
+
+- Hacking some code. Make it work, make it good, make it fast.
+
