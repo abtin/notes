@@ -31,3 +31,10 @@
 
 - Hacking some code. Make it work, make it good, make it fast.
 
+### Dec 06, 2021
+
+#### Thoughts
+
+- If people don't listen when you're talking, they don't deserve to hear what you're gonna say.
+- Only give where it's well received. The rest won't matter.
+
