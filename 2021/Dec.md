@@ -52,3 +52,16 @@
 - I liked the lightning talks of the first day of GopherCon
 - "One thorn of experience is worth a whole wilderness of warning" - James Russell Lowell
 
+
+
+### Dec 09, 2021
+
+#### Thoughts
+
+- I missed the 3D printing with Go talk at GopherCon but the slides were amazing. I'm going to watch the recording later.
+- "Think about what you want today and you'll spend your time. Think about what you want in 5 years and you'll invest your time." - James Clear
+
+
+
+
+
