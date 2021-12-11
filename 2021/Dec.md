@@ -63,5 +63,8 @@
 
 
 
+### Dec 10, 2021
 
+#### Thoughts
 
+- To handle concurrency, start with the simplest way and add more capabilities, only when needed.
