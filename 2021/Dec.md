@@ -68,3 +68,11 @@
 #### Thoughts
 
 - To handle concurrency, start with the simplest way and add more capabilities, only when needed.
+
+
+
+### Dec 11, 2021
+
+#### Thoughts
+
+- When you are experimenting, there is no rush to build something. 
