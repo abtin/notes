@@ -76,3 +76,12 @@
 #### Thoughts
 
 - When you are experimenting, there is no rush to build something. 
+
+
+
+### Dec 13, 2021
+
+#### Thoughts
+
+- As soon as there is an executable, it's best to build a deployment model. docker-compose or local kubernetes are great as a starting point.
+
