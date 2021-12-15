@@ -85,3 +85,8 @@
 
 - As soon as there is an executable, it's best to build a deployment model. docker-compose or local kubernetes are great as a starting point.
 
+### Dec 14, 2021
+
+#### Thoughts
+
+- Got a great positive feedback by having deployment ready as soon as the first running version of the code is built.
