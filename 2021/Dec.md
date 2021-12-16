@@ -90,3 +90,10 @@
 #### Thoughts
 
 - Got a great positive feedback by having deployment ready as soon as the first running version of the code is built.
+
+### Dec 15, 2021
+
+#### Thoughts
+
+- Good software wants to be simple. Code likes to be elegant. Just read the code and it tells you its story. If it stutters, if it can't articulate, be patient. There's a good idea is behind it, begging to be discovered.
+
