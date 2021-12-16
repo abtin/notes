@@ -97,3 +97,8 @@
 
 - Good software wants to be simple. Code likes to be elegant. Just read the code and it tells you its story. If it stutters, if it can't articulate, be patient. There's a good idea is behind it, begging to be discovered.
 
+### Dec 16, 2021
+
+#### Thoughts
+
+- Going back to white board as requested by my code! If there is an opportunity for duplication, there is an opportunity to fix the design! 
