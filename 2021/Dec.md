@@ -102,3 +102,9 @@
 #### Thoughts
 
 - Going back to white board as requested by my code! If there is an opportunity for duplication, there is an opportunity to fix the design! 
+
+### Dec 17, 2021
+
+#### Thoughts
+
+- There is no need to use a pub/sub tech in places where request/reply is the needed pattern. 
