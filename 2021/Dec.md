@@ -108,3 +108,10 @@
 #### Thoughts
 
 - There is no need to use a pub/sub tech in places where request/reply is the needed pattern. 
+
+### Dec 18, 2021
+
+#### Thoughts
+
+- When designing software answering WHY is more important than HOW. Sometimes things are not needed.
+
