@@ -115,3 +115,8 @@
 
 - When designing software answering WHY is more important than HOW. Sometimes things are not needed.
 
+### Dec 20, 2021
+
+#### Thoughts
+
+- A comfy bed, a comfy workspace, some good company. The never ending fun and joy.
