@@ -120,3 +120,9 @@
 #### Thoughts
 
 - A comfy bed, a comfy workspace, some good company. The never ending fun and joy.
+
+### Dec 21, 2021
+
+#### Thoughts
+
+- I had some hesitation to try a new thing every time I checked it in the past week or so. While I was preparing to try it soon, I heard about a shortcoming that would be a deal-breaker for me. Glad that I didn't try it. There is <u>something</u> that manifest itself as feelings.
