@@ -133,3 +133,11 @@
 
 - Great day of rest. 
 - Need to do core transformation on some of my beliefs. 
+
+
+
+### Dec 24, 2021
+
+#### Thoughts
+
+- Happy Christmas Eve!
