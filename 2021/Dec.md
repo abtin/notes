@@ -141,3 +141,11 @@
 #### Thoughts
 
 - Happy Christmas Eve!
+
+
+
+### Dec 25, 2021
+
+#### Thoughts
+
+- Took the day off! 
