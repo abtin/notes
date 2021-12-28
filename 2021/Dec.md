@@ -149,3 +149,10 @@
 #### Thoughts
 
 - Took the day off! 
+
+### Dec 27, 2021
+
+#### Thoughts
+
+- There is no escape from frontend! 
+
