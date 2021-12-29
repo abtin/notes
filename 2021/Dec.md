@@ -156,3 +156,11 @@
 
 - There is no escape from frontend! 
 
+
+
+### Dec 28, 2021
+
+#### Thoughts
+
+- Baby step in coding is breaking down the problem to the pieces small enough that can be implemented easily and later on refactored if needed.
+
