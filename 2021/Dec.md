@@ -164,3 +164,8 @@
 
 - Baby step in coding is breaking down the problem to the pieces small enough that can be implemented easily and later on refactored if needed.
 
+### Dec 29, 2021
+
+#### Thoughts
+
+- Giving my body the rest it asks for.
