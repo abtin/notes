@@ -169,3 +169,11 @@
 #### Thoughts
 
 - Giving my body the rest it asks for.
+
+
+
+### Dec 31, 2021
+
+#### Thoughts
+
+- Last day of the year! It's been a tough year but I still have so much to be grateful for. I have found my inner prohibiter!
