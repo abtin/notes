@@ -6,3 +6,9 @@
 
 
 
+### Dec 02, 2021
+
+#### Thoughts
+
+- Got stuck? Simplify!
+
