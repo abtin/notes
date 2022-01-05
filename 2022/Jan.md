@@ -12,3 +12,22 @@
 
 - Got stuck? Simplify!
 
+
+
+### Dec 03, 2021
+
+#### Thoughts
+
+- The iterative process of idea -> Implementation -> new / refined idea works fine. 
+- Jut down the ideas before going to bed.
+
+
+
+### Dec 04, 2021
+
+#### Thoughts
+
+- Implementing ideas from last night. 
+
+
+
