@@ -31,3 +31,9 @@
 
 
 
+### Dec 05, 2021
+
+#### Thoughts
+
+- Took a step today that could be the start of a new life-style. It can be very exciting if things go right. 
+
