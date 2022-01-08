@@ -45,3 +45,11 @@
 
 - Allow it.
 
+
+
+### Dec 07, 2021
+
+#### Thoughts
+
+- There was nothing to see. That's why I didn't see it. Time to look forward.
+
