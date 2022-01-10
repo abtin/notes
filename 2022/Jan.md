@@ -1,4 +1,4 @@
-### Dec 01, 2021
+### Jan 01, 2022
 
 #### Thoughts
 
@@ -6,7 +6,7 @@
 
 
 
-### Dec 02, 2021
+### Jan 02, 2022
 
 #### Thoughts
 
@@ -14,7 +14,7 @@
 
 
 
-### Dec 03, 2021
+### Jan 03, 2022
 
 #### Thoughts
 
@@ -31,7 +31,7 @@
 
 
 
-### Dec 05, 2021
+### Jan 05, 2022
 
 #### Thoughts
 
@@ -39,7 +39,7 @@
 
 
 
-### Dec 06, 2021
+### Jan 06, 2022
 
 #### Thoughts
 
@@ -47,9 +47,18 @@
 
 
 
-### Dec 07, 2021
+### Jan 07, 2022
 
 #### Thoughts
 
 - There was nothing to see. That's why I didn't see it. Time to look forward.
+
+
+
+### Jan 09, 2022
+
+#### Thoughts
+
+- Internal support is helping to stabilize and improve confidence.
+- Where there is a will, there is a way!
 
