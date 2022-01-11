@@ -62,3 +62,10 @@
 - Internal support is helping to stabilize and improve confidence.
 - Where there is a will, there is a way!
 
+
+
+### Jan 10, 2022
+
+#### Thoughts
+
+- Iterate till get it right!
