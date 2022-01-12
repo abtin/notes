@@ -69,3 +69,11 @@
 #### Thoughts
 
 - Iterate till get it right!
+
+
+
+### Jan 11, 2022
+
+#### Thoughts
+
+- There is a way to simplify the complexities and remove the struggles.
