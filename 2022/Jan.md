@@ -77,3 +77,12 @@
 #### Thoughts
 
 - There is a way to simplify the complexities and remove the struggles.
+
+
+
+### Jan 12, 2022
+
+#### Thoughts
+
+- I tried it but wasn't wonderful at all. Still happy that I tried it.
+- Really looking forward to have only one single and focused work stream.
