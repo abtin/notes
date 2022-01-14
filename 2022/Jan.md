@@ -86,3 +86,13 @@
 
 - I tried it but wasn't wonderful at all. Still happy that I tried it.
 - Really looking forward to have only one single and focused work stream.
+
+
+
+### Jan 13, 2022
+
+#### Thoughts
+
+- A doctor that is not punctual and doesn't remember her patients conditions is effectively useless.
+- The biggest help to human health is to replace Family doctors with storage + automation + AI.
+
