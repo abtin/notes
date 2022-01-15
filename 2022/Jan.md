@@ -96,3 +96,11 @@
 - A doctor that is not punctual and doesn't remember her patients conditions is effectively useless.
 - The biggest help to human health is to replace Family doctors with storage + automation + AI.
 
+
+
+### Jan 14, 2022
+
+#### Thoughts
+
+- I'm not religiously believe in TDD, but unit testing some areas of the code that are more complex will prevent some debugging and is also a good way of communicating the code design.
+- Time to rest.
