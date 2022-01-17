@@ -104,3 +104,11 @@
 
 - I'm not religiously believe in TDD, but unit testing some areas of the code that are more complex will prevent some debugging and is also a good way of communicating the code design.
 - Time to rest.
+
+
+
+### Jan 16, 2022
+
+#### Thoughts
+
+- What can stay after we are gone? Something that's useful to people.
