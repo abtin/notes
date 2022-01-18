@@ -112,3 +112,12 @@
 #### Thoughts
 
 - What can stay after we are gone? Something that's useful to people.
+
+
+
+### Jan 17, 2022
+
+#### Thoughts
+
+- More fun to come.
+
