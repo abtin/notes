@@ -121,3 +121,13 @@
 
 - More fun to come.
 
+
+
+### Jan 18, 2022
+
+#### Thoughts
+
+- need a general theme for the simulation and some details around the idea.
+
+  
+
