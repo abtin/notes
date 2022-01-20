@@ -131,3 +131,11 @@
 
   
 
+### Jan 19, 2022
+
+#### Thoughts
+
+- The theme will be agents with different capabilities and they re-produce next generations who inherit some traits from the parents and then due to selection they'll evolve.
+
+  
+
