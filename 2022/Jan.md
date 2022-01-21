@@ -139,3 +139,9 @@
 
   
 
+### Jan 20, 2022
+
+#### Thoughts
+
+- It's mind blowing that so much of biology and life is based on just chemical reactions! Where is the line between alive and not alive?
+
