@@ -151,3 +151,13 @@
 
 - Turkish food is tasty but too filling! I need a good rest after! 
 - I'm going to have a 2nd attempt on using Ebiten to present the simulation world!
+
+
+
+### Jan 22, 2022
+
+#### Thoughts
+
+- Negative feedback is also appreciated! There is a reason for the negative feedback. It could be temporal (Not the right time) or spacial (Not the right place). At the end, life will go on and if we don't get stuck, the happiness will follow :)
+
+  
