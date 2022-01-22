@@ -145,3 +145,9 @@
 
 - It's mind blowing that so much of biology and life is based on just chemical reactions! Where is the line between alive and not alive?
 
+### Jan 21, 2022
+
+#### Thoughts
+
+- Turkish food is tasty but too filling! I need a good rest after! 
+- I'm going to have a 2nd attempt on using Ebiten to present the simulation world!
