@@ -23,7 +23,7 @@
 
 
 
-### Dec 04, 2021
+### Jan 04, 2021
 
 #### Thoughts
 
@@ -161,3 +161,15 @@
 - Negative feedback is also appreciated! There is a reason for the negative feedback. It could be temporal (Not the right time) or spacial (Not the right place). At the end, life will go on and if we don't get stuck, the happiness will follow :)
 
   
+
+### Jan 22, 2022
+
+#### Thoughts
+
+- Negative feedback is also appreciated! There is a reason for the negative feedback. It could be temporal (Not the right time) or spacial (Not the right place). At the end, life will go on and if we don't get stuck, the happiness will follow :)
+
+### Jan 24, 2022
+
+#### Thoughts
+
+- Looking for a dashboard builder for 2d simulation board. May end up using python ploty / dash. But looking for something that runs independently.
