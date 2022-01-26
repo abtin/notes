@@ -173,3 +173,9 @@
 #### Thoughts
 
 - Looking for a dashboard builder for 2d simulation board. May end up using python ploty / dash. But looking for something that runs independently.
+
+### Jan 25, 2022
+
+#### Thoughts
+
+- I cannot find a nice dashboard tool that can show grids / boards similar to what mesa does. Is it possible to just take the visualization part of mesa and use it?
