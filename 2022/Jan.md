@@ -179,3 +179,9 @@
 #### Thoughts
 
 - I cannot find a nice dashboard tool that can show grids / boards similar to what mesa does. Is it possible to just take the visualization part of mesa and use it?
+
+### Jan 25, 2022
+
+#### Thoughts
+
+- Conformity vs Vulnerability 
