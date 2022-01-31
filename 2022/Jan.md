@@ -192,3 +192,9 @@
 
 - shiny  https://pkg.go.dev/golang.org/x/exp/shiny
 
+### Jan 30, 2022
+
+#### Thoughts
+
+- using interfaces to build abstraction to describe things by their behavior
+
