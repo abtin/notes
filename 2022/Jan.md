@@ -198,3 +198,10 @@
 
 - using interfaces to build abstraction to describe things by their behavior
 
+### Jan 31, 2022
+
+#### Thoughts
+
+- There are a lot of smart people building advanced stuffs.
+- There are a few trying to build simple things.
+
