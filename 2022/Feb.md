@@ -18,3 +18,11 @@
 #### Thoughts
 
 - Not much progress today. 
+
+
+
+### Feb 04, 2022
+
+#### Thoughts
+
+- Back on making progress. 
