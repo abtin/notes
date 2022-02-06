@@ -26,3 +26,12 @@
 #### Thoughts
 
 - Back on making progress. 
+
+
+
+### Feb 05, 2022
+
+#### Thoughts
+
+- Looking at google data factory.
+
