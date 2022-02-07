@@ -33,5 +33,15 @@
 
 #### Thoughts
 
-- Looking at google data factory.
+- Looking at google data studio.
+
+
+
+### Feb 06, 2022
+
+#### Thoughts
+
+- goolge data studio doesn't have a proper way to handle real-time data. People relies on using a chrome plug-in to keep refreshing the dashboard.
+
+
 
