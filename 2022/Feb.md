@@ -45,3 +45,10 @@
 
 
 
+### Feb 07, 2022
+
+#### Thoughts
+
+- What is the way out?
+
+  
