@@ -51,4 +51,12 @@
 
 - What is the way out?
 
+
+
+### Feb 08, 2022
+
+#### Thoughts
+
+- So glad to learn about ssh/web access to remarkable. That served my basic needs. Although I'd like to write a cli / TUI for it.
+
   
