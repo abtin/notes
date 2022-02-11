@@ -59,4 +59,19 @@
 
 - So glad to learn about ssh/web access to remarkable. That served my basic needs. Although I'd like to write a cli / TUI for it.
 
-  
+
+
+### Feb 09, 2022
+
+#### Thoughts
+
+- Productivity is not about efficiency, it's about effectiveness.
+
+
+
+### Feb 10, 2022
+
+#### Thoughts
+
+- What is like working at google?
+
