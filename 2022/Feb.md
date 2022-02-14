@@ -83,3 +83,11 @@
 
 - Developers productivity metrics?! First make sure the manager is knowledgeable, but not micro-managing. Then hire smart and curious developers who communicate well and let them learn by making mistakes in a safe environment. Be nice to them and create a fun atmosphere. Then come back and talk to me about developers productivity!
 
+
+
+### Feb 13, 2022
+
+#### Thoughts
+
+- I'm at a point that I really like giving and sharing.
+- A simple life, a clear mind.
