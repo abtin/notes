@@ -91,3 +91,12 @@
 
 - I'm at a point that I really like giving and sharing.
 - A simple life, a clear mind.
+
+
+
+### Feb 14, 2022
+
+#### Thoughts
+
+- Valentine's day!
+- Caring about customers is more than lip service. Cheap people are not doing anything to keep their customers. Cut the bullshit, please!
