@@ -100,3 +100,11 @@
 
 - Valentine's day!
 - Caring about customers is more than lip service. Cheap people are not doing anything to keep their customers. Cut the bullshit, please!
+
+
+
+### Feb 15, 2022
+
+#### Thoughts
+
+- Traveling books are going to have their own stories of hearts they touched and minds they provoked. 
