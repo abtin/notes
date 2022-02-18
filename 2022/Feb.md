@@ -108,3 +108,11 @@
 #### Thoughts
 
 - Traveling books are going to have their own stories of hearts they touched and minds they provoked. 
+
+
+
+### Feb 17, 2022
+
+#### Thoughts
+
+- Time to relax a bit.
