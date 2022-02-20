@@ -116,3 +116,11 @@
 #### Thoughts
 
 - Time to relax a bit.
+
+
+
+### Feb 19, 2022
+
+#### Thoughts
+
+- Agents write to influxdb. A dashboard shows their state on the world. Would that work?
