@@ -124,3 +124,11 @@
 #### Thoughts
 
 - Agents write to influxdb. A dashboard shows their state on the world. Would that work?
+
+
+
+### Feb 19, 2022
+
+#### Thoughts
+
+- workout day in a long weekend.
