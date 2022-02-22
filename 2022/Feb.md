@@ -127,8 +127,16 @@
 
 
 
-### Feb 19, 2022
+### Feb 20, 2022
 
 #### Thoughts
 
 - workout day in a long weekend.
+
+
+
+### Feb 21, 2022
+
+#### Thoughts
+
+- Learning more about influxdb. Maybe I'd also try the arduino examples too :D
