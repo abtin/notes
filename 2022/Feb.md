@@ -140,3 +140,14 @@
 #### Thoughts
 
 - Learning more about influxdb. Maybe I'd also try the arduino examples too :D
+
+
+
+
+
+### Feb 22, 2022
+
+#### Thoughts
+
+- 2022-02-22: Calendars are man made concepts. We will never see some magical dates like this in our lifetime, but the same thing is true about any days. 
+- I'm getting really ready to settle down on something I like.
