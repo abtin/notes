@@ -158,4 +158,10 @@
 
 - Thinking of writing a liveness/readiness probe for redis to use it when the cache is full. would that work as a mechanism to create back pressure on the data writers?
 
-  
+
+
+### Feb 24, 2022
+
+#### Thoughts
+
+- I need a way to visually capture the dependencies between systems, upstream and downstream. Something like https://eth.build is very useful. I need some attributes about the systems and a way to connect them to their upstream and downstream systems.
