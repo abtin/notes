@@ -165,3 +165,11 @@
 #### Thoughts
 
 - I need a way to visually capture the dependencies between systems, upstream and downstream. Something like https://eth.build is very useful. I need some attributes about the systems and a way to connect them to their upstream and downstream systems.
+
+
+
+### Feb 25, 2022
+
+#### Thoughts
+
+- Dark days we are living in.
