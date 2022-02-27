@@ -182,3 +182,4 @@
 
 - We are living in the dark age! Only a few are staying clean of Bullshits.
 - Internet is an amplifier. It amplifies Bullshitters louder.
+- Why top executives, CEOs, top politicians, etc. are top bullshitters.  
