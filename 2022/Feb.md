@@ -183,3 +183,17 @@
 - We are living in the dark age! Only a few are staying clean of Bullshits.
 - Internet is an amplifier. It amplifies Bullshitters louder.
 - Why top executives, CEOs, top politicians, etc. are top bullshitters.  
+
+
+
+### Feb 27, 2022
+
+#### Thoughts
+
+- Google is changing their search engine UI/UX. The list output is so outdated and cumbersome. Same as search function. It's time to each of us to have our own AI Agent which automatically, intelligently and efficiently learns about us and stays transparent with us. There is a larger market for this than the stupid "lipstick-on-the-pig" modern ads.
+
+- Email is so inefficient and so ignored that it's clear it's dying. 
+
+- the new generation is coming and instead of "Web3!! :)" it's going to be something else, but definitely 1.0.
+
+   
