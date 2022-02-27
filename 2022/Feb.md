@@ -173,3 +173,12 @@
 #### Thoughts
 
 - Dark days we are living in.
+
+
+
+### Feb 26, 2022
+
+#### Thoughts
+
+- We are living in the dark age! Only a few are staying clean of Bullshits.
+- Internet is an amplifier. It amplifies Bullshitters louder.
