@@ -23,3 +23,10 @@
 -  Sync the words to your thoughts and your actions to your words. 
 -  Enjoying this article: https://www.lifehack.org/articles/communication/10-reasons-true-yourself.html
 
+
+
+### Mar 03, 2022
+
+#### Thoughts
+
+-  Not a people pleaser. 
