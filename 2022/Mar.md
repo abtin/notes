@@ -25,8 +25,17 @@
 
 
 
-### Mar 03, 2022
+### Mar 04, 2022
 
 #### Thoughts
 
 -  Not a people pleaser. 
+
+
+
+### Mar 06, 2022
+
+#### Thoughts
+
+-  Been a good day!
+-  I'm going to repel many people.  
