@@ -39,3 +39,11 @@
 
 -  Been a good day!
 -  I'm going to repel many people.  
+
+
+
+### Mar 07, 2022
+
+#### Thoughts
+
+-  Need to learn more about PowerBI.
