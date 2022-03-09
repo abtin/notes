@@ -47,3 +47,13 @@
 #### Thoughts
 
 -  Need to learn more about PowerBI.
+
+
+
+### Mar 08, 2022
+
+#### Thoughts
+
+-  How do you define Success Criteria for a software development project?
+-  The criteria must be defined, measurable with baseline and dependencies.
+
