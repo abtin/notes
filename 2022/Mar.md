@@ -57,3 +57,10 @@
 -  How do you define Success Criteria for a software development project?
 -  The criteria must be defined, measurable with baseline and dependencies.
 
+
+
+### Mar 09, 2022
+
+#### Thoughts
+
+-  I want to see if I can use openCV for producing the output for my simulation code.
