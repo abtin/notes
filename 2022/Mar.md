@@ -64,3 +64,14 @@
 #### Thoughts
 
 -  I want to see if I can use openCV for producing the output for my simulation code.
+
+
+
+### Mar 10, 2022
+
+#### Thoughts
+
+- Got my Creative Thinking and Critical thinking cards.
+
+  
+
