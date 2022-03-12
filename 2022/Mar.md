@@ -75,3 +75,11 @@
 
   
 
+### Mar 11, 2022
+
+#### Thoughts
+
+- Had some fun with NumPy. 
+
+  
+
