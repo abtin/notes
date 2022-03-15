@@ -95,3 +95,8 @@
 
   
 
+### Mar 14, 2022
+
+#### Thoughts
+
+- Having with numpy and pandas.
