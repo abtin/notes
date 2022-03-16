@@ -100,3 +100,11 @@
 #### Thoughts
 
 - Having with numpy and pandas.
+
+
+
+### Mar 14, 2022
+
+#### Thoughts
+
+- Why PowerBI online doesn't have the features of PowerBI Desktop? Don't want to use Windows, Ugh!
