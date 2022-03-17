@@ -108,3 +108,17 @@
 #### Thoughts
 
 - Why PowerBI online doesn't have the features of PowerBI Desktop? Don't want to use Windows, Ugh!
+
+
+
+### Mar 16, 2022
+
+#### Thoughts
+
+- Data sciency, eh?
+
+- Python libraries for data engineering/analysis/science are really amazing.
+
+- Let's see if I can bring a friend of mine to the data world.
+
+  
