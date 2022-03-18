@@ -116,9 +116,14 @@
 #### Thoughts
 
 - Data sciency, eh?
-
 - Python libraries for data engineering/analysis/science are really amazing.
-
 - Let's see if I can bring a friend of mine to the data world.
 
-  
+
+
+### Mar 17, 2022
+
+#### Thoughts
+
+- Pandas is fun POwerBI is not! PowerBI is a neglected, abandoned piece of torture which is stock in early 2000. The pain that these type of software caused made some creative people to think about User Experience!!
+
