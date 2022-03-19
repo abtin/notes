@@ -127,3 +127,12 @@
 
 - Pandas is fun POwerBI is not! PowerBI is a neglected, abandoned piece of torture which is stock in early 2000. The pain that these type of software caused made some creative people to think about User Experience!!
 
+
+
+### Mar 17, 2022
+
+#### Thoughts
+
+- Continuing to have fun with pandas. It's a real swiss army for anyone playing with data.
+
+  
