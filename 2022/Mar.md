@@ -129,10 +129,20 @@
 
 
 
-### Mar 17, 2022
+### Mar 18, 2022
 
 #### Thoughts
 
 - Continuing to have fun with pandas. It's a real swiss army for anyone playing with data.
+
+
+
+### Mar 19, 2022
+
+#### Thoughts
+
+- Rest and personal care day!
+
+  
 
   
