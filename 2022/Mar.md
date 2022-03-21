@@ -143,6 +143,18 @@
 
 - Rest and personal care day!
 
+
+
+### Mar 20, 2022
+
+#### Thoughts
+
+- Feel well rested and refreshed.
+
+- Pandas fun continue.
+
+  
+
   
 
   
