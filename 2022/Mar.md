@@ -155,6 +155,8 @@
 
   
 
-  
+### Mar 21, 2022
 
-  
+#### Thoughts
+
+- intro to NLP is next.
