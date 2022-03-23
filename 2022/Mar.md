@@ -160,3 +160,12 @@
 #### Thoughts
 
 - intro to NLP is next.
+
+- 
+
+### Mar 22, 2022
+
+#### Thoughts
+
+- today learned a bit about nlptk and gensim.
+
