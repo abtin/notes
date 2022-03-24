@@ -161,11 +161,21 @@
 
 - intro to NLP is next.
 
-- 
+  
 
 ### Mar 22, 2022
 
 #### Thoughts
 
 - today learned a bit about nlptk and gensim.
+
+
+
+### Mar 23, 2022
+
+#### Thoughts
+
+- polyglot and sklearn are the name of the game today.
+
+
 
