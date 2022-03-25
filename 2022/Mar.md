@@ -179,3 +179,15 @@
 
 
 
+### Mar 24, 2022
+
+#### Thoughts
+
+- And a bit of spacy today.
+
+- There is a LOT to the NLP that I don't know.
+
+  
+
+
+
