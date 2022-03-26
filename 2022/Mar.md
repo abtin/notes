@@ -189,5 +189,10 @@
 
   
 
+### Mar 25, 2022
 
+#### Thoughts
 
+- spaCy day 2. lots of interesting stuffs.
+
+  
