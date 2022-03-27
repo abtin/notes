@@ -196,3 +196,11 @@
 - spaCy day 2. lots of interesting stuffs.
 
   
+
+### Mar 26, 2022
+
+#### Thoughts
+
+- I rather learn something new on a weekend day than take a nap.
+
+  
