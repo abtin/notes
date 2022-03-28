@@ -203,4 +203,13 @@
 
 - I rather learn something new on a weekend day than take a nap.
 
+
+
+
+### Mar 27, 2022
+
+#### Thoughts
+
+- Self-care day.
+
   
