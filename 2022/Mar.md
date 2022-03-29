@@ -212,4 +212,13 @@
 
 - Self-care day.
 
+
+
+
+### Mar 28, 2022
+
+#### Thoughts
+
+- Getting to SpaCy pipelines.
+
   
