@@ -221,4 +221,10 @@
 
 - Getting to SpaCy pipelines.
 
-  
+
+
+### Mar 29, 2022
+
+#### Thoughts
+
+- some more SpaCy pipeline stuffs. But definitely need to study deeper.
