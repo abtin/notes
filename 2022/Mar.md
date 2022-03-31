@@ -228,3 +228,17 @@
 #### Thoughts
 
 - some more SpaCy pipeline stuffs. But definitely need to study deeper.
+
+
+
+### Mar 30, 2022
+
+#### Thoughts
+
+- Fragile: Something that gets damaged from stress. 
+
+- Anti-Fragile: Something that thrives from stress.
+
+  
+
+ 
