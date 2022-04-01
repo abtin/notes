@@ -241,4 +241,11 @@
 
   
 
- 
+
+
+### Mar 31, 2022
+
+#### Thoughts
+
+- Last day of the month. Going to do a bit of spaCy before calling it a day.
+- It's amazing that it is accepted for enterprise apps to have horrible UX. I'm looking at you Microsoft tools. Visio is horror. PowerBI is left in late 90s. Quality doesn't matter to the users and the producers.  
