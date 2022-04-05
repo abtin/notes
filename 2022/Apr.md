@@ -26,3 +26,10 @@
 
   
 
+### Apr 04, 2022
+
+#### Thoughts
+
+- They say the neighbor's grass is greener. You know why? Because it's well maintained! 
+
+  
