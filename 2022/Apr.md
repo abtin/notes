@@ -31,7 +31,12 @@
 #### Thoughts
 
 - They say the neighbor's grass is greener. You know why? Because it's well maintained! 
-
 - I'm taking a look at the spacy website and try their materials.
 
-  
+
+
+### Apr 05, 2022
+
+#### Thoughts
+
+- refreshing some web dev.
