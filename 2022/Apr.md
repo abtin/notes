@@ -40,3 +40,11 @@
 #### Thoughts
 
 - refreshing some web dev.
+
+
+
+### Apr 06, 2022
+
+#### Thoughts
+
+- Had a great day today. Met an old friend.
