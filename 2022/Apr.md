@@ -48,3 +48,13 @@
 #### Thoughts
 
 - Had a great day today. Met an old friend.
+
+
+
+### Apr 07, 2022
+
+#### Thoughts
+
+- Anti fragility is very interesting topic
+
+  
