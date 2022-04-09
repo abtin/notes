@@ -57,4 +57,14 @@
 
 - Anti fragility is very interesting topic
 
+
+
+### Apr 08, 2022
+
+#### Thoughts
+
+- It's the emotion that drives to greatness not the logic.
+
+- Take the largest challenge and fail early / fail fast to success.
+
   
