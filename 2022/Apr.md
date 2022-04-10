@@ -64,7 +64,13 @@
 #### Thoughts
 
 - It's the emotion that drives to greatness not the logic.
-
 - Take the largest challenge and fail early / fail fast to success.
 
-  
+
+
+
+### Apr 09, 2022
+
+#### Thoughts
+
+- what is the deeper connection. A shared direct connection.
