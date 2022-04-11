@@ -74,3 +74,12 @@
 #### Thoughts
 
 - what is the deeper connection. A shared direct connection.
+
+
+
+### Apr 10, 2022
+
+#### Thoughts
+
+- Living the life in a way that makes sense. We are not born to serve the others. 
+- There has to be a major change. A redemption.
