@@ -83,3 +83,13 @@
 
 - Living the life in a way that makes sense. We are not born to serve the others. 
 - There has to be a major change. A redemption.
+
+
+
+### Apr 11, 2022
+
+#### Thoughts
+
+- Achievement of the day: backed-up can cleaned-up my remarkable notes.
+- Need to come up with a simple process of taking, organizing and deleting notes.
+- 
