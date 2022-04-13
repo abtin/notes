@@ -92,4 +92,12 @@
 
 - Achievement of the day: backed-up can cleaned-up my remarkable notes.
 - Need to come up with a simple process of taking, organizing and deleting notes.
-- 
+
+
+
+### Apr 12, 2022
+
+#### Thoughts
+
+- There's a delay in my learning activities due to amount of work these days.
+- A reminder from Atomic Habit: "Walk slowly but never backward."
