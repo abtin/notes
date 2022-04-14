@@ -101,3 +101,11 @@
 
 - There's a delay in my learning activities due to amount of work these days.
 - A reminder from Atomic Habit: "Walk slowly but never backward."
+
+
+
+### Apr 13, 2022
+
+#### Thoughts
+
+- very busy, bit still did some studying (self learning stuffs).
