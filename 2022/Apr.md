@@ -109,3 +109,13 @@
 #### Thoughts
 
 - very busy, bit still did some studying (self learning stuffs).
+
+
+
+### Apr 14, 2022
+
+#### Thoughts
+
+- small steps but still progressing.
+- time to rest a bit
+
