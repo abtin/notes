@@ -119,3 +119,14 @@
 - small steps but still progressing.
 - time to rest a bit
 
+
+
+### Apr 15, 2022
+
+#### Thoughts
+
+- Been a great day. slept enough. listened to my audio book. Did some learning.
+
+- it was beautiful around sunset.
+
+  
