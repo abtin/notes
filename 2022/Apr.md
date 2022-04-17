@@ -126,7 +126,15 @@
 #### Thoughts
 
 - Been a great day. slept enough. listened to my audio book. Did some learning.
-
 - it was beautiful around sunset.
 
-  
+
+
+
+### Apr 16, 2022
+
+#### Thoughts
+
+- Things are started to make sense.
+- getting to bootstrap.
+
