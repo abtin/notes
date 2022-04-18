@@ -138,3 +138,12 @@
 - Things are started to make sense.
 - getting to bootstrap.
 
+
+
+### Apr 17, 2022
+
+#### Thoughts
+
+- Listening to Life 3.0 by Max Tegmark. 
+- bootstrap has come a long way. 
+
