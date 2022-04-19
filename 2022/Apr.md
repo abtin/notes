@@ -147,3 +147,11 @@
 - Listening to Life 3.0 by Max Tegmark. 
 - bootstrap has come a long way. 
 
+
+
+### Apr 18, 2022
+
+#### Thoughts
+
+- Happy Easter!
+- A productive day in learning more stuffs. Baby steps.
