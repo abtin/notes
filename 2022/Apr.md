@@ -155,3 +155,11 @@
 
 - Happy Easter!
 - A productive day in learning more stuffs. Baby steps.
+
+
+
+### Apr 19, 2022
+
+#### Thoughts
+
+- Been ridiculously busy today. 
