@@ -163,3 +163,9 @@
 #### Thoughts
 
 - Been ridiculously busy today. 
+
+### Apr 20, 2022
+
+#### Thoughts
+
+- Some good work, gym and then a bit of learning activity.
