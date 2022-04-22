@@ -169,3 +169,15 @@
 #### Thoughts
 
 - Some good work, gym and then a bit of learning activity.
+
+
+
+### Apr 21, 2022
+
+#### Thoughts
+
+- Meetings are waste of time if they are to do the work instead of making the decisions and moving on.
+- I'm curious how ML and DL can help with extracting information from documents.
+
+
+
