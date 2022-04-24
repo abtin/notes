@@ -187,3 +187,12 @@
 
 - I read this somewhere and it resonated with me very well: "In order for new seasons to begin, others have to end!".
 - We spend too much energy for resiliency. Nature has mastered energy efficiency by allowing the change, the cycle, the growth, the fall, the re-growth, the anti-fragility. 
+
+
+
+### Apr 23, 2022
+
+#### Thoughts
+
+- The dream was so good that when I woke up I didn't want this reality. It tells what I deeply like. It's a good guidance system.
+- Learning continues. it's interesting and progress is being made :)
