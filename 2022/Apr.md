@@ -196,3 +196,19 @@
 
 - The dream was so good that when I woke up I didn't want this reality. It tells what I deeply like. It's a good guidance system.
 - Learning continues. it's interesting and progress is being made :)
+
+
+
+
+
+### Apr 23, 2022
+
+#### Thoughts
+
+- I'm grateful for having a good day. 
+
+- I'm glad that I didn't work on bullshit tasks. 
+
+- Looking forward to something interesting, fulfilling and rewarding. That's what I truly desire.
+
+  
