@@ -201,14 +201,20 @@
 
 
 
-### Apr 23, 2022
+### Apr 24, 2022
 
 #### Thoughts
 
 - I'm grateful for having a good day. 
-
 - I'm glad that I didn't work on bullshit tasks. 
-
 - Looking forward to something interesting, fulfilling and rewarding. That's what I truly desire.
 
-  
+
+
+
+### Apr 25, 2022
+
+#### Thoughts
+
+- I'm enjoying listening to Life 3.0. 
+
