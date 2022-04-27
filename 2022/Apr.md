@@ -218,3 +218,12 @@
 
 - I'm enjoying listening to Life 3.0. 
 
+
+
+### Apr 26, 2022
+
+#### Thoughts
+
+- Learning continues.
+- What is going to be the future of this distributed duplicated linked list?
+
