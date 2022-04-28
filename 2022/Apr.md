@@ -227,3 +227,16 @@
 - Learning continues.
 - What is going to be the future of this distributed duplicated linked list?
 
+
+
+### Apr 27, 2022
+
+#### Thoughts
+
+- Nature optimizes for energy consumption.
+
+- Technology optimized for simplicity.
+
+- Birds flap their wings. Airplanes have fixed wings. 
+
+  
