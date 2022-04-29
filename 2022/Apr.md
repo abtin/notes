@@ -237,6 +237,18 @@
 
 - Technology optimized for simplicity.
 
-- Birds flap their wings. Airplanes have fixed wings. 
+- Birds flap their wings. Airplanes have fixed wings.
+
+
+
+### Apr 28, 2022
+
+#### Thoughts
+
+- Learning activities continues.
+
+- Need some rest now.
+
+  
 
   
