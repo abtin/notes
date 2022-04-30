@@ -246,9 +246,17 @@
 #### Thoughts
 
 - Learning activities continues.
-
 - Need some rest now.
 
-  
+
+
+
+### Apr 29, 2022
+
+#### Thoughts
+
+- It's crazy that some organizations bribe their software engineers by letting them work on interesting stuffs, while keeping the pay lower than what they can make elsewhere.
+
+- Does it have to be like this? Either you make good money or work on interesting projects?
 
   
