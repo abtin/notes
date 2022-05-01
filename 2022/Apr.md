@@ -256,7 +256,16 @@
 #### Thoughts
 
 - It's crazy that some organizations bribe their software engineers by letting them work on interesting stuffs, while keeping the pay lower than what they can make elsewhere.
-
 - Does it have to be like this? Either you make good money or work on interesting projects?
 
-  
+
+
+
+### Apr 30, 2022
+
+#### Thoughts
+
+- Last day of the month!
+- learning continues. slowly but surely. 
+- TIL there is a javascript debugger in chrome! can be handy in some cases.
+- Also Life 3.0 is getting to cosmic level intelligence. Now I understand why he is called Mad Max!
