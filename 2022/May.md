@@ -6,3 +6,12 @@
 - Listening to Life 3.0 made me think about AI way more carefully.
 - What is the goal of highway? To be driven on!
 - The goal of physical world is to end up in entropy. The goal of evolution is to reproduce.
+
+
+
+### May 02, 2022
+
+#### Thoughts
+
+- Being ahead is not enough. Delivering results and getting adopted by users are crucial.
+- Another black swan is on the way. This time it might be the economy.
