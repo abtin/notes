@@ -15,3 +15,11 @@
 
 - Being ahead is not enough. Delivering results and getting adopted by users are crucial.
 - Another black swan is on the way. This time it might be the economy.
+
+
+
+### May 02, 2022
+
+#### Thoughts
+
+- learning is in progress. need to pause and practice.
