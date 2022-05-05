@@ -18,8 +18,18 @@
 
 
 
-### May 02, 2022
+### May 03, 2022
 
 #### Thoughts
 
 - learning is in progress. need to pause and practice.
+
+
+
+### May 04, 2022
+
+#### Thoughts
+
+- May the 4th be with you.
+- Think about what sort of future you want rather than merely what sort of future you fear.
+
