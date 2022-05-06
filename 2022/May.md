@@ -33,3 +33,10 @@
 - May the 4th be with you.
 - Think about what sort of future you want rather than merely what sort of future you fear.
 
+
+
+### May 05, 2022
+
+#### Thoughts
+
+- I Like to work in a small team on small / medium projects.
