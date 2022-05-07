@@ -40,3 +40,15 @@
 #### Thoughts
 
 - I Like to work in a small team on small / medium projects.
+
+
+
+### May 06, 2022
+
+#### Thoughts
+
+- Space, time and gravity are emergent properties of quantum machaincs?
+
+- Mycelium is the network that connect everything together?
+
+  
