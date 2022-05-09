@@ -48,7 +48,26 @@
 #### Thoughts
 
 - Space, time and gravity are emergent properties of quantum machaincs?
-
 - Mycelium is the network that connect everything together?
+
+
+
+### May 07, 2022
+
+#### Thoughts
+
+- Spent some time learning and also listening to the Selfish Gene audiobook.
+
+
+
+### May 08, 2022
+
+#### Thoughts
+
+- Had a great experience of Robert Lepage The Library At Night. I realized how much I love libraries.
+
+- I also got a great idea of lighting a room.
+
+- Also I like dim rooms with.
 
   
