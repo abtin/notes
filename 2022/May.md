@@ -65,9 +65,15 @@
 #### Thoughts
 
 - Had a great experience of Robert Lepage The Library At Night. I realized how much I love libraries.
-
 - I also got a great idea of lighting a room.
-
 - Also I like dim rooms with.
 
-  
+
+
+
+### May 08, 2022
+
+#### Thoughts
+
+- pyscript is interesting. The only thing I didn't like was comparing it to php. Does it mean that per each request they need to load python vm? 
+
