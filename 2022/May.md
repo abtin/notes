@@ -71,9 +71,15 @@
 
 
 
-### May 08, 2022
+### May 09, 2022
 
 #### Thoughts
 
 - pyscript is interesting. The only thing I didn't like was comparing it to php. Does it mean that per each request they need to load python vm? 
+
+### May 10, 2022
+
+#### Thoughts
+
+- Very busy day switching between multiple projects. I miss focused development work.
 
