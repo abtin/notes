@@ -83,3 +83,11 @@
 
 - Very busy day switching between multiple projects. I miss focused development work.
 
+
+
+### May 11, 2022
+
+#### Thoughts
+
+- Hope is not a plan!
+
