@@ -91,3 +91,15 @@
 
 - Hope is not a plan!
 
+
+
+### May 12, 2022
+
+#### Thoughts
+
+- Corporate bullshit is against creativity.
+
+- I'm looking for the opposite path.
+
+  
+
