@@ -103,3 +103,10 @@
 
   
 
+### May 13, 2022
+
+#### Thoughts
+
+- Red, yellow, green, blue. I'm surrounded by idiots.
+- Too much green is hurting.
+
