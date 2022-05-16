@@ -110,3 +110,22 @@
 - Red, yellow, green, blue. I'm surrounded by idiots.
 - Too much green is hurting.
 
+
+
+### May 14, 2022
+
+#### Thoughts
+
+- Took some rest
+
+
+
+### May 15, 2022
+
+#### Thoughts
+
+- Some learning. Some workout. Great weather.
+
+- How absence of fear affects our decisions? Or when there is no fear but certainty.
+
+  
