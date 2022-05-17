@@ -125,7 +125,13 @@
 #### Thoughts
 
 - Some learning. Some workout. Great weather.
-
 - How absence of fear affects our decisions? Or when there is no fear but certainty.
 
-  
+
+
+
+### May 16, 2022
+
+#### Thoughts
+
+- shifting out of green. not much value there.
