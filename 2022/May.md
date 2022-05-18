@@ -135,3 +135,13 @@
 #### Thoughts
 
 - shifting out of green. not much value there.
+
+
+
+
+### May 17, 2022
+
+#### Thoughts
+
+- Non-linearity of the outcomes. it's not about the probability of failure. it's about the impact of failure. 
+- Building success is by removing the failure. just like carving a statue out of stone. It's by subtracting the failure points. 
