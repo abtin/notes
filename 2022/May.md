@@ -145,3 +145,13 @@
 
 - Non-linearity of the outcomes. it's not about the probability of failure. it's about the impact of failure. 
 - Building success is by removing the failure. just like carving a statue out of stone. It's by subtracting the failure points. 
+
+
+
+
+### May 18, 2022
+
+#### Thoughts
+
+- Removing noise is more important than adding signal. Sculpting.
+- This Video about Calud Shannon [https://www.youtube.com/watch?v=JP1Ljp8X6hg blew my mind. 
