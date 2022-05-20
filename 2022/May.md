@@ -155,3 +155,15 @@
 
 - Removing noise is more important than adding signal. Sculpting.
 - This Video about Calud Shannon [https://www.youtube.com/watch?v=JP1Ljp8X6hg blew my mind. 
+
+
+
+### May 19, 2022
+
+#### Thoughts
+
+- The great reset is interesting. For longest time employers pushed employees to be flexible and do the work they didn't enjoy. Now it's employees turn to demand flexibility from the employer.
+
+- I'm just observing.
+
+  
