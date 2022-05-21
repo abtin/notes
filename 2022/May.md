@@ -163,7 +163,13 @@
 #### Thoughts
 
 - The great reset is interesting. For longest time employers pushed employees to be flexible and do the work they didn't enjoy. Now it's employees turn to demand flexibility from the employer.
-
 - I'm just observing.
 
-  
+
+
+
+### May 20, 2022
+
+#### Thoughts
+
+- Saying NO is the Power of Yang. Yin says yes.
