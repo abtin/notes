@@ -173,3 +173,13 @@
 #### Thoughts
 
 - Saying NO is the Power of Yang. Yin says yes.
+
+
+
+
+### May 23, 2022
+
+#### Thoughts
+
+- I don't have time for bullshit, stupid projects. 
+- Enough of wasting time being around negative people.
