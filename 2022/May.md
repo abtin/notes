@@ -183,3 +183,12 @@
 
 - I don't have time for bullshit, stupid projects. 
 - Enough of wasting time being around negative people.
+
+
+
+### May 24, 2022
+
+#### Thoughts
+
+- I'm getting to play more with Azure. 
+- In the meantime I'm refreshing on svelte. looking for an idea to use what I learned.
