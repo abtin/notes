@@ -192,3 +192,12 @@
 
 - I'm getting to play more with Azure. 
 - In the meantime I'm refreshing on svelte. looking for an idea to use what I learned.
+
+
+
+### May 25, 2022
+
+#### Thoughts
+
+- Learning continues. 
+- Thinking of using frontend mentor website and complete the challenges in svelte.
