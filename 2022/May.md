@@ -201,3 +201,11 @@
 
 - Learning continues. 
 - Thinking of using frontend mentor website and complete the challenges in svelte.
+
+
+
+### May 26, 2022
+
+#### Thoughts
+
+- Looking for a tool to help me capture and visualize dependencies between things.
