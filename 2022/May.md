@@ -209,3 +209,19 @@
 #### Thoughts
 
 - Looking for a tool to help me capture and visualize dependencies between things.
+
+
+
+### May 27, 2022
+
+#### Thoughts
+
+- Topgun was real fun. Gonna watch it again in 3D.
+
+
+
+### May 28, 2022
+
+#### Thoughts
+
+- It was fun to see A at B after such a long time.
