@@ -225,3 +225,12 @@
 #### Thoughts
 
 - It was fun to see A at B after such a long time.
+
+
+
+### May 29, 2022
+
+#### Thoughts
+
+- I stumbled upon ontalogy4 and found it very interesting. SROP is brilliant; including the temporal aspect to relationships and properties is very smart. Something that was missing from the original ideas of Object Oriented Design.
+
