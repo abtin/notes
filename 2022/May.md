@@ -234,3 +234,12 @@
 
 - I stumbled upon ontalogy4 and found it very interesting. SROP is brilliant; including the temporal aspect to relationships and properties is very smart. Something that was missing from the original ideas of Object Oriented Design.
 
+### May 30, 2022
+
+#### Thoughts
+
+- Last day of May!
+- Self love!
+- Ontology, nlp, reinforcement learning. 
+- going to un-pause the progress.
+
