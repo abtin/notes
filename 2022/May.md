@@ -238,8 +238,18 @@
 
 #### Thoughts
 
-- Last day of May!
 - Self love!
 - Ontology, nlp, reinforcement learning. 
 - going to un-pause the progress.
 
+
+
+### May 31, 2022
+
+#### Thoughts
+
+- We need regulation of information. The industrial revolution created a lot of industrial pollution. It took humanity a long time to realize we need clean air, clean water and clean food to live.
+
+- Information age, is producing a lot of informational pollution. Fake news, social network and other disgusting side effects of the Internet is muddying our minds. We need to regulate the information. Unfortunately a lot of people are benefiting from the mud.
+
+  
