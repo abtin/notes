@@ -14,3 +14,12 @@
 
 - Svelte is really sweet. 
 - Learning more about different Azure container based solutions. Why there are competing solutions and too much overlaps?
+
+
+
+### June 03, 2022
+
+#### Thoughts
+
+- Small steps, but hasn't stopped.
+- Big organizations are buried under the self made bullshits.
