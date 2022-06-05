@@ -23,3 +23,12 @@
 
 - Small steps, but hasn't stopped.
 - Big organizations are buried under the self made bullshits.
+
+
+
+### June 04, 2022
+
+#### Thoughts
+
+- Just pretend that you got the news and stop wasting your time.
+- Passion helps you to start, stubbornness lets you finish. 
