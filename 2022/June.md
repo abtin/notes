@@ -32,3 +32,11 @@
 
 - Just pretend that you got the news and stop wasting your time.
 - Passion helps you to start, stubbornness lets you finish. 
+
+
+
+### June 05, 2022
+
+#### Thoughts
+
+- We don't sleep, we rust, literally!
