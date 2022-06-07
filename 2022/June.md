@@ -40,3 +40,12 @@
 #### Thoughts
 
 - We don't sleep, we rust, literally!
+
+
+
+### June 06, 2022
+
+#### Thoughts
+
+- I'm an idiot, but I'm not the only one! This is such a strong statement. Everyone is an idiot in some things.
+- The freedom that comes from taking a step past being vulnerable is enormous.
