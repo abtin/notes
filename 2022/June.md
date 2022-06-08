@@ -50,3 +50,11 @@
 - I'm an idiot, but I'm not the only one! This is such a strong statement. Everyone is an idiot in some things.
 - The freedom that comes from taking a step past being vulnerable is enormous.
 - Stop echoing whatever you hear. Input-processing-output. No output is also a valid result of processing. 
+
+
+
+### June 07, 2022
+
+#### Thoughts
+
+- Some svelte.
