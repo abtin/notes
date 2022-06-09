@@ -58,3 +58,12 @@
 #### Thoughts
 
 - Some svelte.
+
+
+
+### June 08, 2022
+
+#### Thoughts
+
+- Learning continues happily.
+- At some point I build a demo app with all the bells and whistles.
