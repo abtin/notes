@@ -67,3 +67,23 @@
 
 - Learning continues happily.
 - At some point I build a demo app with all the bells and whistles.
+
+
+
+### June 09, 2022
+
+#### Thoughts
+
+- I'm proud!
+
+
+
+### June 10, 2022
+
+#### Thoughts
+
+- Learning continues.
+- Building a complex system is only possible by putting together simpler parts.
+
+
+
