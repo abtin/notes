@@ -87,3 +87,14 @@
 
 
 
+### June 11, 2022
+
+#### Thoughts
+
+- 22-6-11 
+
+- When they hurt you with their words and they figure they have hurt you and don't apologize it's because they DON'T CARE! 
+
+- This shall end!
+
+  
