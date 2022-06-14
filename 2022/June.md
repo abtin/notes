@@ -103,3 +103,12 @@
 
 - Learning continues.
 - Watched an intro video to terratest. Looks interesting.
+
+
+
+### June 13, 2022
+
+#### Thoughts
+
+- Another chapter is done.
+- A lot of choices we make or we don't roots from our beliefs. So may be choice is an illusion.
