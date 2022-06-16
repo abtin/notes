@@ -112,3 +112,20 @@
 
 - Another chapter is done.
 - A lot of choices we make or we don't roots from our beliefs. So may be choice is an illusion.
+
+
+
+### June 14, 2022
+
+#### Thoughts
+
+- Very busy day! 
+
+
+
+### June 15, 2022
+
+#### Thoughts
+
+- Lots of work, some learning.
+- Online meetings are crap! Major waste of time if it's about technical discussions. Get everyone in a room!
