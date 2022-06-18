@@ -130,10 +130,16 @@
 - Lots of work, some learning.
 - Online meetings are crap! Major waste of time if it's about technical discussions. Get everyone in a room!
 
-
-
 ### June 16, 2022
 
 #### Thoughts
 
 - Learning continues.
+
+
+
+### June 17, 2022
+
+#### Thoughts
+
+- Using svelte to build desktop app? That's cool.
