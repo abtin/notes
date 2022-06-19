@@ -143,3 +143,19 @@
 #### Thoughts
 
 - Using svelte to build desktop app? That's cool.
+
+
+
+### June 18, 2022
+
+#### Thoughts
+
+- Learning from my impassivity.
+
+
+
+### June 19, 2022
+
+#### Thoughts
+
+- Next challenge: Widening the buffer between emotion and decision. Bringing the blood from limbic system to the frontal lobe. 
