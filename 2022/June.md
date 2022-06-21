@@ -160,3 +160,15 @@
 
 - Next challenge: Widening the buffer between emotion and decision. Bringing the blood from limbic system to the frontal lobe. 
 - Question: If the outcome of a life decision - that we consider as biggest mistake - is great, can that decision still be considered as a mistake? 
+
+
+
+### June 20, 2022
+
+#### Thoughts
+
+- So many times it happens too fast
+  You change your passion for glory
+  Don't lose your grip on the dreams of the past
+  You must fight just to keep them alive
+
