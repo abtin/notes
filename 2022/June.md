@@ -172,3 +172,10 @@
   Don't lose your grip on the dreams of the past
   You must fight just to keep them alive
 
+
+
+### June 21, 2022
+
+#### Thoughts
+
+- Svelte transitions and animations are sweet.
