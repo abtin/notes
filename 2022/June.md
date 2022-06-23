@@ -179,3 +179,13 @@
 #### Thoughts
 
 - Svelte transitions and animations are sweet.
+
+
+
+### June 22, 2022
+
+#### Thoughts
+
+- Firebase realtime is still maybe one of the quickest way to build a REST based DB.
+- Priming ourselves for behaviors. 
+- Emotions -> thoughts -> hormones -> decision -> hormones -> thought -> emotions.
