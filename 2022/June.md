@@ -189,3 +189,12 @@
 - Firebase realtime is still maybe one of the quickest way to build a REST based DB.
 - Priming ourselves for behaviors. 
 - Emotions -> thoughts -> hormones -> decision -> hormones -> thought -> emotions.
+
+
+
+### June 23, 2022
+
+#### Thoughts
+
+- Ask and you shall be given.
+- Use best reasoning and convincing technics.
