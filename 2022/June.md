@@ -198,3 +198,11 @@
 
 - Ask and you shall be given.
 - Use best reasoning and convincing technics.
+
+
+
+### June 24, 2022
+
+#### Thoughts
+
+- Played a bit with terratest and Azure. The library is interesting since it allows integration testing done as part of CICD with actual creation of resources on cloud. It looks like a bit light on Azure comparing to AWS though and there is no gcp support. 
