@@ -206,3 +206,11 @@
 #### Thoughts
 
 - Played a bit with terratest and Azure. The library is interesting since it allows integration testing done as part of CICD with actual creation of resources on cloud. It looks like a bit light on Azure comparing to AWS though and there is no gcp support. 
+
+
+
+### June 24, 2022
+
+#### Thoughts
+
+- Used the gap between feeling and decision. Barely noticed it. But I can identify it.
