@@ -209,8 +209,19 @@
 
 
 
-### June 24, 2022
+### June 25, 2022
 
 #### Thoughts
 
 - Used the gap between feeling and decision. Barely noticed it. But I can identify it.
+
+
+
+### June 26, 2022
+
+#### Thoughts
+
+- "Time is only short if you waste it" - Seneca
+
+
+
