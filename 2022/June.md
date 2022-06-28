@@ -225,3 +225,13 @@
 
 
 
+### June 27, 2022
+
+#### Thoughts
+
+- Enjoying blues music.
+
+- There is always time to do it right. 
+
+  
+
