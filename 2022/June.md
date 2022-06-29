@@ -235,3 +235,10 @@
 
   
 
+
+
+### June 28, 2022
+
+#### Thoughts
+
+- Being **bold** has nothing to do with the size!
