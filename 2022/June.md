@@ -235,10 +235,18 @@
 
   
 
-
-
 ### June 28, 2022
 
 #### Thoughts
 
 - Being **bold** has nothing to do with the size!
+
+
+
+### June 29, 2022
+
+#### Thoughts
+
+- It'd be nice to have a toy project to test different technologies or ideas. What can it be?
+
+  
