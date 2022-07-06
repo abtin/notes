@@ -30,5 +30,9 @@
 - going to build a folder of all smaller micro apps, codes that have single focus and can be combined together for future projects. It's like investigating how to build ikea parts for later assembly.
   
     
-  
-  
+
+### July 05, 2022
+
+#### Thoughts
+
+- Today I had a first hand experience about talkers vs doers. How talkers who cannot build anything are given the power to dictate the direction of the way things should be done. I have no problem with people looking at the bigger picture, but I disagree with giving power to talkers. Medical system got it right. The head of a hospital department has to be a doctor. 
