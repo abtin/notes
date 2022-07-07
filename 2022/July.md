@@ -36,3 +36,11 @@
 #### Thoughts
 
 - Today I had a first hand experience about talkers vs doers. How talkers who cannot build anything are given the power to dictate the direction of the way things should be done. I have no problem with people looking at the bigger picture, but I disagree with giving power to talkers. Medical system got it right. The head of a hospital department has to be a doctor. 
+
+  
+
+### July 06, 2022
+
+#### Thoughts
+
+- Trying to make sense of WORM capability of MinIO. It doesn't makes sense to me that I'm not only allowed to delete the object versions but I can delete the object itself.
