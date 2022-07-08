@@ -44,3 +44,11 @@
 #### Thoughts
 
 - Trying to make sense of WORM capability of MinIO. It doesn't makes sense to me that I'm not only allowed to delete the object versions but I can delete the object itself.
+
+
+
+### July 07, 2022
+
+#### Thoughts
+
+- Ok. MinIO makes sense. Deleting just creates a new version. Also with access and policy gives proper fine grained control.
