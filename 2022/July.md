@@ -52,3 +52,11 @@
 #### Thoughts
 
 - Ok. MinIO makes sense. Deleting just creates a new version. Also with access and policy gives proper fine grained control.
+
+
+
+### July 08, 2022
+
+#### Thoughts
+
+- Can Microsoft Power Apps deliver real applications? The target audience is people with Word and Excel knowledge. Basically BAs. 
