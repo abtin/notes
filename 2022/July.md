@@ -60,3 +60,11 @@
 #### Thoughts
 
 - Can Microsoft Power Apps deliver real applications? The target audience is people with Word and Excel knowledge. Basically BAs. 
+
+
+
+### July 09, 2022
+
+#### Thoughts
+
+- Us us us us and Them them them them....
