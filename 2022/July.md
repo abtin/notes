@@ -68,3 +68,11 @@
 #### Thoughts
 
 - Us us us us and Them them them them....
+
+
+
+### July 10, 2022
+
+#### Thoughts
+
+- Digging into the dark magic of CSS.
