@@ -76,3 +76,11 @@
 #### Thoughts
 
 - Digging into the dark magic of CSS.
+
+
+
+### July 11, 2022
+
+#### Thoughts
+
+- ArgoCD is cool and all, but there still are other deployment targets than Kubernetes. Just saying.
