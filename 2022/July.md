@@ -84,3 +84,9 @@
 #### Thoughts
 
 - ArgoCD is cool and all, but there still are other deployment targets than Kubernetes. Just saying.
+
+
+
+### July 12, 2022
+
+- I need to play with Microsoft ASE a little. Try to deploy it with terraform and deploy an app/function into it.
