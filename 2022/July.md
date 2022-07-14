@@ -90,3 +90,9 @@
 ### July 12, 2022
 
 - I need to play with Microsoft ASE a little. Try to deploy it with terraform and deploy an app/function into it.
+
+
+
+### July 13, 2022
+
+- A comparison between AKS and GKE is on the way. Also need to compare ASE scaling with K8S (AKS) scaling.
