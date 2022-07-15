@@ -96,3 +96,9 @@
 ### July 13, 2022
 
 - A comparison between AKS and GKE is on the way. Also need to compare ASE scaling with K8S (AKS) scaling.
+
+
+
+### July 14, 2022
+
+- A wild day! 
