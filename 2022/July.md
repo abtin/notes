@@ -102,3 +102,17 @@
 ### July 14, 2022
 
 - A wild day! 
+
+
+
+### July 15, 2022
+
+- Playing with helm.
+
+
+
+### July 16, 2022
+
+- Please don't force OOP on Go. It was a torture listening to Go.FM hearing about it. It's a rabbit hole that ends up in spring boot!!
+
+ 
