@@ -116,3 +116,7 @@
 - Please don't force OOP on Go. It was a torture listening to Go.FM hearing about it. It's a rabbit hole that ends up in spring boot!!
 
  
+
+### July 17, 2022
+
+- Never knew helm has such an extended set of functions. 
