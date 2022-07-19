@@ -120,3 +120,9 @@
 ### July 17, 2022
 
 - Never knew helm has such an extended set of functions. 
+
+
+
+### July 18, 2022
+
+- Test is running in k8s. Next: do some load testing. Looking at you `hey`!
