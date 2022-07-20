@@ -126,3 +126,9 @@
 ### July 18, 2022
 
 - Test is running in k8s. Next: do some load testing. Looking at you `hey`!
+
+
+
+### July 19, 2022
+
+- Time to deploy the test as functions App in ASE. So far Azure doesn't work intuitively. Azure feels it was built by enterprise for enterprise. Will need more work.
