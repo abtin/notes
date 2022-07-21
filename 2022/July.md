@@ -132,3 +132,9 @@
 ### July 19, 2022
 
 - Time to deploy the test as functions App in ASE. So far Azure doesn't work intuitively. Azure feels it was built by enterprise for enterprise. Will need more work.
+
+
+
+### July 20, 2022
+
+- Azure python functions impl is utterly weird. I'm wondering why instead of using Flask, they invented their own http server.
