@@ -138,3 +138,9 @@
 ### July 20, 2022
 
 - Azure python functions impl is utterly weird. I'm wondering why instead of using Flask, they invented their own http server.
+
+
+
+### July 21, 2022
+
+- I thought gcp docs were bad. Azure took it to the next level. 
