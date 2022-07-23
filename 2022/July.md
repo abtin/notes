@@ -144,3 +144,9 @@
 ### July 21, 2022
 
 - I thought gcp docs were bad. Azure took it to the next level. 
+
+
+
+### July 22, 2022
+
+- Like to play with pulumi a bit. See if I can use it to setup ASE.
