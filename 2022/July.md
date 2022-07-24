@@ -150,3 +150,9 @@
 ### July 22, 2022
 
 - Like to play with pulumi a bit. See if I can use it to setup ASE.
+
+
+
+### July 23, 2022
+
+- There is very little left. Almost nothing to hold it together. Don't know how it's going to be.
