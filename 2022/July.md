@@ -156,3 +156,9 @@
 ### July 23, 2022
 
 - There is very little left. Almost nothing to hold it together. Don't know how it's going to be.
+
+
+
+### July 24, 2022
+
+- Very productive day. good workout and good progress with the etl code on Azure Func.
