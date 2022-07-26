@@ -162,3 +162,9 @@
 ### July 24, 2022
 
 - Very productive day. good workout and good progress with the etl code on Azure Func.
+
+
+
+### July 25, 2022
+
+- Talkers vs. doers. Doers win in action but they need to know how to talk. And by how to talk it mostly means with confidence.
