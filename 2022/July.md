@@ -168,3 +168,15 @@
 ### July 25, 2022
 
 - Talkers vs. doers. Doers win in action but they need to know how to talk. And by how to talk it mostly means with confidence.
+
+
+
+### July 26, 2022
+
+- Yacht party day!
+
+
+
+### July 27, 2022
+
+- Azure functions are very expensive. I see no reason for a team of good engineers to prefer Azure over other cloud providers. Azure is good for enterprises since they are stuck with other Microsoft tools or cannot attract/hire strong engineers.
