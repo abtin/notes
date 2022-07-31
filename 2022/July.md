@@ -190,3 +190,9 @@
 ### July 29, 2022
 
 - Would need to dig a bit deeper in k8s.
+
+
+
+### July 30, 2022
+
+- Last day of the month. Azure portal is from long time ago from a galaxy far far away! It's not even about  UX, it's about basic UI design. 🤮
